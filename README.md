@@ -1,5 +1,6 @@
 # Knowledge-engineering-10
 
+## Tasks
 - [ ] create entity-relation tuples from the table
   - [ ] identify entity and relations
   - [ ] devise possible latent/implicit relations

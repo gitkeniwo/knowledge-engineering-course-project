@@ -1,0 +1,14 @@
+# ignore pycache 
+__pycache__/
+*.pyc
+
+# ignore .DS_Store
+.DS_Store
+
+# ignore .env
+.env
+
+# ignore .vscode
+.vscode/
+
+# ignore large data files
