@@ -1,0 +1,1341 @@
+indicator_name,indicator_code
+All staff compensation as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNS
+All staff compensation as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNS
+"Barro-Lee: Average years of primary schooling, age 15+, female",BAR.PRM.SCHL.15UP.FE
+"Barro-Lee: Average years of primary schooling, age 15+, total",BAR.PRM.SCHL.15UP
+"Barro-Lee: Average years of primary schooling, age 15-19, female",BAR.PRM.SCHL.1519.FE
+"Barro-Lee: Average years of primary schooling, age 15-19, total",BAR.PRM.SCHL.1519
+"Barro-Lee: Average years of primary schooling, age 20-24, female",BAR.PRM.SCHL.2024.FE
+"Barro-Lee: Average years of primary schooling, age 20-24, total",BAR.PRM.SCHL.2024
+"Barro-Lee: Average years of primary schooling, age 25+, female",BAR.PRM.SCHL.25UP.FE
+"Barro-Lee: Average years of primary schooling, age 25+, total",BAR.PRM.SCHL.25UP
+"Barro-Lee: Average years of primary schooling, age 25-29, female",BAR.PRM.SCHL.2529.FE
+"Barro-Lee: Average years of primary schooling, age 25-29, total",BAR.PRM.SCHL.2529
+"Barro-Lee: Average years of primary schooling, age 30-34, female",BAR.PRM.SCHL.3034.FE
+"Barro-Lee: Average years of primary schooling, age 30-34, total",BAR.PRM.SCHL.3034
+"Barro-Lee: Average years of primary schooling, age 35-39, female",BAR.PRM.SCHL.3539.FE
+"Barro-Lee: Average years of primary schooling, age 35-39, total",BAR.PRM.SCHL.3539
+"Barro-Lee: Average years of primary schooling, age 40-44, female",BAR.PRM.SCHL.4044.FE
+"Barro-Lee: Average years of primary schooling, age 40-44, total",BAR.PRM.SCHL.4044
+"Barro-Lee: Average years of primary schooling, age 45-49, female",BAR.PRM.SCHL.4549.FE
+"Barro-Lee: Average years of primary schooling, age 45-49, total",BAR.PRM.SCHL.4549
+"Barro-Lee: Average years of primary schooling, age 50-54, female",BAR.PRM.SCHL.5054.FE
+"Barro-Lee: Average years of primary schooling, age 50-54, total",BAR.PRM.SCHL.5054
+"Barro-Lee: Average years of primary schooling, age 55-59, female",BAR.PRM.SCHL.5559.FE
+"Barro-Lee: Average years of primary schooling, age 55-59, total",BAR.PRM.SCHL.5559
+"Barro-Lee: Average years of primary schooling, age 60-64, female",BAR.PRM.SCHL.6064.FE
+"Barro-Lee: Average years of primary schooling, age 60-64, total",BAR.PRM.SCHL.6064
+"Barro-Lee: Average years of primary schooling, age 65-69, female",BAR.PRM.SCHL.6569.FE
+"Barro-Lee: Average years of primary schooling, age 65-69, total",BAR.PRM.SCHL.6569
+"Barro-Lee: Average years of primary schooling, age 70-74, female",BAR.PRM.SCHL.7074.FE
+"Barro-Lee: Average years of primary schooling, age 70-74, total",BAR.PRM.SCHL.7074
+"Barro-Lee: Average years of primary schooling, age 75+, female",BAR.PRM.SCHL.75UP.FE
+"Barro-Lee: Average years of primary schooling, age 75+, total",BAR.PRM.SCHL.75UP
+"Barro-Lee: Average years of secondary schooling, age 15+, female",BAR.SEC.SCHL.15UP.FE
+"Barro-Lee: Average years of secondary schooling, age 15+, total",BAR.SEC.SCHL.15UP
+"Barro-Lee: Average years of secondary schooling, age 15-19, female",BAR.SEC.SCHL.1519.FE
+"Barro-Lee: Average years of secondary schooling, age 15-19, total",BAR.SEC.SCHL.1519
+"Barro-Lee: Average years of secondary schooling, age 20-24, female",BAR.SEC.SCHL.2024.FE
+"Barro-Lee: Average years of secondary schooling, age 20-24, total",BAR.SEC.SCHL.2024
+"Barro-Lee: Average years of secondary schooling, age 25+, female",BAR.SEC.SCHL.25UP.FE
+"Barro-Lee: Average years of secondary schooling, age 25+, total",BAR.SEC.SCHL.25UP
+"Barro-Lee: Average years of secondary schooling, age 25-29, female",BAR.SEC.SCHL.2529.FE
+"Barro-Lee: Average years of secondary schooling, age 25-29, total",BAR.SEC.SCHL.2529
+"Barro-Lee: Average years of secondary schooling, age 30-34, female",BAR.SEC.SCHL.3034.FE
+"Barro-Lee: Average years of secondary schooling, age 30-34, total",BAR.SEC.SCHL.3034
+"Barro-Lee: Average years of secondary schooling, age 35-39, female",BAR.SEC.SCHL.3539.FE
+"Barro-Lee: Average years of secondary schooling, age 35-39, total",BAR.SEC.SCHL.3539
+"Barro-Lee: Average years of secondary schooling, age 40-44, female",BAR.SEC.SCHL.4044.FE
+"Barro-Lee: Average years of secondary schooling, age 40-44, total",BAR.SEC.SCHL.4044
+"Barro-Lee: Average years of secondary schooling, age 45-49, female",BAR.SEC.SCHL.4549.FE
+"Barro-Lee: Average years of secondary schooling, age 45-49, total",BAR.SEC.SCHL.4549
+"Barro-Lee: Average years of secondary schooling, age 50-54, female",BAR.SEC.SCHL.5054.FE
+"Barro-Lee: Average years of secondary schooling, age 50-54, total",BAR.SEC.SCHL.5054
+"Barro-Lee: Average years of secondary schooling, age 55-59, female",BAR.SEC.SCHL.5559.FE
+"Barro-Lee: Average years of secondary schooling, age 55-59, total",BAR.SEC.SCHL.5559
+"Barro-Lee: Average years of secondary schooling, age 60-64, female",BAR.SEC.SCHL.6064.FE
+"Barro-Lee: Average years of secondary schooling, age 60-64, total",BAR.SEC.SCHL.6064
+"Barro-Lee: Average years of secondary schooling, age 65-69, female",BAR.SEC.SCHL.6569.FE
+"Barro-Lee: Average years of secondary schooling, age 65-69, total",BAR.SEC.SCHL.6569
+"Barro-Lee: Average years of secondary schooling, age 70-74, female",BAR.SEC.SCHL.7074.FE
+"Barro-Lee: Average years of secondary schooling, age 70-74, total",BAR.SEC.SCHL.7074
+"Barro-Lee: Average years of secondary schooling, age 75+, female",BAR.SEC.SCHL.75UP.FE
+"Barro-Lee: Average years of secondary schooling, age 75+, total",BAR.SEC.SCHL.75UP
+"Barro-Lee: Average years of tertiary schooling, age 15+, female",BAR.TER.SCHL.15UP.FE
+"Barro-Lee: Average years of tertiary schooling, age 15+, total",BAR.TER.SCHL.15UP
+"Barro-Lee: Average years of tertiary schooling, age 15-19, female",BAR.TER.SCHL.1519.FE
+"Barro-Lee: Average years of tertiary schooling, age 15-19, total",BAR.TER.SCHL.1519
+"Barro-Lee: Average years of tertiary schooling, age 20-24, female",BAR.TER.SCHL.2024.FE
+"Barro-Lee: Average years of tertiary schooling, age 20-24, total",BAR.TER.SCHL.2024
+"Barro-Lee: Average years of tertiary schooling, age 25+, female",BAR.TER.SCHL.25UP.FE
+"Barro-Lee: Average years of tertiary schooling, age 25+, total",BAR.TER.SCHL.25UP
+"Barro-Lee: Average years of tertiary schooling, age 25-29, female",BAR.TER.SCHL.2529.FE
+"Barro-Lee: Average years of tertiary schooling, age 25-29, total",BAR.TER.SCHL.2529
+"Barro-Lee: Average years of tertiary schooling, age 30-34, female",BAR.TER.SCHL.3034.FE
+"Barro-Lee: Average years of tertiary schooling, age 30-34, total",BAR.TER.SCHL.3034
+"Barro-Lee: Average years of tertiary schooling, age 35-39, female",BAR.TER.SCHL.3539.FE
+"Barro-Lee: Average years of tertiary schooling, age 35-39, total",BAR.TER.SCHL.3539
+"Barro-Lee: Average years of tertiary schooling, age 40-44, female",BAR.TER.SCHL.4044.FE
+"Barro-Lee: Average years of tertiary schooling, age 40-44, total",BAR.TER.SCHL.4044
+"Barro-Lee: Average years of tertiary schooling, age 45-49, female",BAR.TER.SCHL.4549.FE
+"Barro-Lee: Average years of tertiary schooling, age 45-49, total",BAR.TER.SCHL.4549
+"Barro-Lee: Average years of tertiary schooling, age 50-54, female",BAR.TER.SCHL.5054.FE
+"Barro-Lee: Average years of tertiary schooling, age 50-54, total",BAR.TER.SCHL.5054
+"Barro-Lee: Average years of tertiary schooling, age 55-59, female",BAR.TER.SCHL.5559.FE
+"Barro-Lee: Average years of tertiary schooling, age 55-59, total",BAR.TER.SCHL.5559
+"Barro-Lee: Average years of tertiary schooling, age 60-64, female",BAR.TER.SCHL.6064.FE
+"Barro-Lee: Average years of tertiary schooling, age 60-64, total",BAR.TER.SCHL.6064
+"Barro-Lee: Average years of tertiary schooling, age 65-69, female",BAR.TER.SCHL.6569.FE
+"Barro-Lee: Average years of tertiary schooling, age 65-69, total",BAR.TER.SCHL.6569
+"Barro-Lee: Average years of tertiary schooling, age 70-74, female",BAR.TER.SCHL.7074.FE
+"Barro-Lee: Average years of tertiary schooling, age 70-74, total",BAR.TER.SCHL.7074
+"Barro-Lee: Average years of tertiary schooling, age 75+, female",BAR.TER.SCHL.75UP.FE
+"Barro-Lee: Average years of tertiary schooling, age 75+, total",BAR.TER.SCHL.75UP
+"Barro-Lee: Average years of total schooling, age 15+, female",BAR.SCHL.15UP.FE
+"Barro-Lee: Average years of total schooling, age 15+, total",BAR.SCHL.15UP
+"Barro-Lee: Average years of total schooling, age 15-19, female",BAR.SCHL.1519.FE
+"Barro-Lee: Average years of total schooling, age 15-19, total",BAR.SCHL.1519
+"Barro-Lee: Average years of total schooling, age 20-24, female",BAR.SCHL.2024.FE
+"Barro-Lee: Average years of total schooling, age 20-24, total",BAR.SCHL.2024
+"Barro-Lee: Average years of total schooling, age 25+, female",BAR.SCHL.25UP.FE
+"Barro-Lee: Average years of total schooling, age 25+, total",BAR.SCHL.25UP
+"Barro-Lee: Average years of total schooling, age 25-29, female",BAR.SCHL.2529.FE
+"Barro-Lee: Average years of total schooling, age 25-29, total",BAR.SCHL.2529
+"Barro-Lee: Average years of total schooling, age 30-34, female",BAR.SCHL.3034.FE
+"Barro-Lee: Average years of total schooling, age 30-34, total",BAR.SCHL.3034
+"Barro-Lee: Average years of total schooling, age 35-39, female",BAR.SCHL.3539.FE
+"Barro-Lee: Average years of total schooling, age 35-39, total",BAR.SCHL.3539
+"Barro-Lee: Average years of total schooling, age 40-44, female",BAR.SCHL.4044.FE
+"Barro-Lee: Average years of total schooling, age 40-44, total",BAR.SCHL.4044
+"Barro-Lee: Average years of total schooling, age 45-49, female",BAR.SCHL.4549.FE
+"Barro-Lee: Average years of total schooling, age 45-49, total",BAR.SCHL.4549
+"Barro-Lee: Average years of total schooling, age 50-54, female",BAR.SCHL.5054.FE
+"Barro-Lee: Average years of total schooling, age 50-54, total",BAR.SCHL.5054
+"Barro-Lee: Average years of total schooling, age 55-59, female",BAR.SCHL.5559.FE
+"Barro-Lee: Average years of total schooling, age 55-59, total",BAR.SCHL.5559
+"Barro-Lee: Average years of total schooling, age 60-64, female",BAR.SCHL.6064.FE
+"Barro-Lee: Average years of total schooling, age 60-64, total",BAR.SCHL.6064
+"Barro-Lee: Average years of total schooling, age 65-69, female",BAR.SCHL.6569.FE
+"Barro-Lee: Average years of total schooling, age 65-69, total",BAR.SCHL.6569
+"Barro-Lee: Average years of total schooling, age 70-74, female",BAR.SCHL.7074.FE
+"Barro-Lee: Average years of total schooling, age 70-74, total",BAR.SCHL.7074
+"Barro-Lee: Average years of total schooling, age 75+, female",BAR.SCHL.75UP.FE
+"Barro-Lee: Average years of total schooling, age 75+, total",BAR.SCHL.75UP
+Barro-Lee: Percentage of female population age 15+ with no education,BAR.NOED.15UP.FE.ZS
+Barro-Lee: Percentage of female population age 15+ with primary schooling. Completed Primary,BAR.PRM.CMPT.15UP.FE.ZS
+Barro-Lee: Percentage of female population age 15+ with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.15UP.FE.ZS
+Barro-Lee: Percentage of female population age 15+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.15UP.FE.ZS
+Barro-Lee: Percentage of female population age 15+ with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.15UP.FE.ZS
+Barro-Lee: Percentage of female population age 15+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.15UP.FE.ZS
+Barro-Lee: Percentage of female population age 15+ with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.15UP.FE.ZS
+Barro-Lee: Percentage of female population age 15-19 with no education,BAR.NOED.1519.FE.ZS
+Barro-Lee: Percentage of female population age 15-19 with primary schooling. Completed Primary,BAR.PRM.CMPT.1519.FE.ZS
+Barro-Lee: Percentage of female population age 15-19 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.1519.FE.ZS
+Barro-Lee: Percentage of female population age 15-19 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.1519.FE.ZS
+Barro-Lee: Percentage of female population age 15-19 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.1519.FE.ZS
+Barro-Lee: Percentage of female population age 15-19 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.1519.FE.ZS
+Barro-Lee: Percentage of female population age 15-19 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.1519.FE.ZS
+Barro-Lee: Percentage of female population age 20-24 with no education,BAR.NOED.2024.FE.ZS
+Barro-Lee: Percentage of female population age 20-24 with primary schooling. Completed Primary,BAR.PRM.CMPT.2024.FE.ZS
+Barro-Lee: Percentage of female population age 20-24 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.2024.FE.ZS
+Barro-Lee: Percentage of female population age 20-24 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.2024.FE.ZS
+Barro-Lee: Percentage of female population age 20-24 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.2024.FE.ZS
+Barro-Lee: Percentage of female population age 20-24 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.2024.FE.ZS
+Barro-Lee: Percentage of female population age 20-24 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.2024.FE.ZS
+Barro-Lee: Percentage of female population age 25+ with no education,BAR.NOED.25UP.FE.ZS
+Barro-Lee: Percentage of female population age 25+ with primary schooling. Completed Primary,BAR.PRM.CMPT.25UP.FE.ZS
+Barro-Lee: Percentage of female population age 25+ with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.25UP.FE.ZS
+Barro-Lee: Percentage of female population age 25+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.25UP.FE.ZS
+Barro-Lee: Percentage of female population age 25+ with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.25UP.FE.ZS
+Barro-Lee: Percentage of female population age 25+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.25UP.FE.ZS
+Barro-Lee: Percentage of female population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.25UP.FE.ZS
+Barro-Lee: Percentage of female population age 25-29 with no education,BAR.NOED.2529.FE.ZS
+Barro-Lee: Percentage of female population age 25-29 with primary schooling. Completed Primary,BAR.PRM.CMPT.2529.FE.ZS
+Barro-Lee: Percentage of female population age 25-29 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.2529.FE.ZS
+Barro-Lee: Percentage of female population age 25-29 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.2529.FE.ZS
+Barro-Lee: Percentage of female population age 25-29 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.2529.FE.ZS
+Barro-Lee: Percentage of female population age 25-29 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.2529.FE.ZS
+Barro-Lee: Percentage of female population age 25-29 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.2529.FE.ZS
+Barro-Lee: Percentage of female population age 30-34 with no education,BAR.NOED.3034.FE.ZS
+Barro-Lee: Percentage of female population age 30-34 with primary schooling. Completed Primary,BAR.PRM.CMPT.3034.FE.ZS
+Barro-Lee: Percentage of female population age 30-34 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.3034.FE.ZS
+Barro-Lee: Percentage of female population age 30-34 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.3034.FE.ZS
+Barro-Lee: Percentage of female population age 30-34 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.3034.FE.ZS
+Barro-Lee: Percentage of female population age 30-34 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.3034.FE.ZS
+Barro-Lee: Percentage of female population age 30-34 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.3034.FE.ZS
+Barro-Lee: Percentage of female population age 35-39 with no education,BAR.NOED.3539.FE.ZS
+Barro-Lee: Percentage of female population age 35-39 with primary schooling. Completed Primary,BAR.PRM.CMPT.3539.FE.ZS
+Barro-Lee: Percentage of female population age 35-39 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.3539.FE.ZS
+Barro-Lee: Percentage of female population age 35-39 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.3539.FE.ZS
+Barro-Lee: Percentage of female population age 35-39 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.3539.FE.ZS
+Barro-Lee: Percentage of female population age 35-39 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.3539.FE.ZS
+Barro-Lee: Percentage of female population age 35-39 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.3539.FE.ZS
+Barro-Lee: Percentage of female population age 40-44 with no education,BAR.NOED.4044.FE.ZS
+Barro-Lee: Percentage of female population age 40-44 with primary schooling. Completed Primary,BAR.PRM.CMPT.4044.FE.ZS
+Barro-Lee: Percentage of female population age 40-44 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.4044.FE.ZS
+Barro-Lee: Percentage of female population age 40-44 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.4044.FE.ZS
+Barro-Lee: Percentage of female population age 40-44 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.4044.FE.ZS
+Barro-Lee: Percentage of female population age 40-44 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.4044.FE.ZS
+Barro-Lee: Percentage of female population age 40-44 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.4044.FE.ZS
+Barro-Lee: Percentage of female population age 45-49 with no education,BAR.NOED.4549.FE.ZS
+Barro-Lee: Percentage of female population age 45-49 with primary schooling. Completed Primary,BAR.PRM.CMPT.4549.FE.ZS
+Barro-Lee: Percentage of female population age 45-49 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.4549.FE.ZS
+Barro-Lee: Percentage of female population age 45-49 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.4549.FE.ZS
+Barro-Lee: Percentage of female population age 45-49 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.4549.FE.ZS
+Barro-Lee: Percentage of female population age 45-49 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.4549.FE.ZS
+Barro-Lee: Percentage of female population age 45-49 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.4549.FE.ZS
+Barro-Lee: Percentage of female population age 50-54 with no education,BAR.NOED.5054.FE.ZS
+Barro-Lee: Percentage of female population age 50-54 with primary schooling. Completed Primary,BAR.PRM.CMPT.5054.FE.ZS
+Barro-Lee: Percentage of female population age 50-54 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.5054.FE.ZS
+Barro-Lee: Percentage of female population age 50-54 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.5054.FE.ZS
+Barro-Lee: Percentage of female population age 50-54 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.5054.FE.ZS
+Barro-Lee: Percentage of female population age 50-54 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.5054.FE.ZS
+Barro-Lee: Percentage of female population age 50-54 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.5054.FE.ZS
+Barro-Lee: Percentage of female population age 55-59 with no education,BAR.NOED.5559.FE.ZS
+Barro-Lee: Percentage of female population age 55-59 with primary schooling. Completed Primary,BAR.PRM.CMPT.5559.FE.ZS
+Barro-Lee: Percentage of female population age 55-59 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.5559.FE.ZS
+Barro-Lee: Percentage of female population age 55-59 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.5559.FE.ZS
+Barro-Lee: Percentage of female population age 55-59 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.5559.FE.ZS
+Barro-Lee: Percentage of female population age 55-59 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.5559.FE.ZS
+Barro-Lee: Percentage of female population age 55-59 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.5559.FE.ZS
+Barro-Lee: Percentage of female population age 60-64 with no education,BAR.NOED.6064.FE.ZS
+Barro-Lee: Percentage of female population age 60-64 with primary schooling. Completed Primary,BAR.PRM.CMPT.6064.FE.ZS
+Barro-Lee: Percentage of female population age 60-64 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.6064.FE.ZS
+Barro-Lee: Percentage of female population age 60-64 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.6064.FE.ZS
+Barro-Lee: Percentage of female population age 60-64 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.6064.FE.ZS
+Barro-Lee: Percentage of female population age 60-64 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.6064.FE.ZS
+Barro-Lee: Percentage of female population age 60-64 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.6064.FE.ZS
+Barro-Lee: Percentage of female population age 65-69 with no education,BAR.NOED.6569.FE.ZS
+Barro-Lee: Percentage of female population age 65-69 with primary schooling. Completed Primary,BAR.PRM.CMPT.6569.FE.ZS
+Barro-Lee: Percentage of female population age 65-69 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.6569.FE.ZS
+Barro-Lee: Percentage of female population age 65-69 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.6569.FE.ZS
+Barro-Lee: Percentage of female population age 65-69 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.6569.FE.ZS
+Barro-Lee: Percentage of female population age 65-69 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.6569.FE.ZS
+Barro-Lee: Percentage of female population age 65-69 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.6569.FE.ZS
+Barro-Lee: Percentage of female population age 70-74 with no education,BAR.NOED.7074.FE.ZS
+Barro-Lee: Percentage of female population age 70-74 with primary schooling. Completed Primary,BAR.PRM.CMPT.7074.FE.ZS
+Barro-Lee: Percentage of female population age 70-74 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.7074.FE.ZS
+Barro-Lee: Percentage of female population age 70-74 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.7074.FE.ZS
+Barro-Lee: Percentage of female population age 70-74 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.7074.FE.ZS
+Barro-Lee: Percentage of female population age 70-74 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.7074.FE.ZS
+Barro-Lee: Percentage of female population age 70-74 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.7074.FE.ZS
+Barro-Lee: Percentage of female population age 75+ with no education,BAR.NOED.75UP.FE.ZS
+Barro-Lee: Percentage of female population age 75+ with primary schooling. Completed Primary,BAR.PRM.CMPT.75UP.FE.ZS
+Barro-Lee: Percentage of female population age 75+ with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.75UP.FE.ZS
+Barro-Lee: Percentage of female population age 75+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.75UP.FE.ZS
+Barro-Lee: Percentage of female population age 75+ with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.75UP.FE.ZS
+Barro-Lee: Percentage of female population age 75+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.75UP.FE.ZS
+Barro-Lee: Percentage of female population age 75+ with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.75UP.FE.ZS
+Barro-Lee: Percentage of population age 15+ with no education,BAR.NOED.15UP.ZS
+Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary,BAR.PRM.CMPT.15UP.ZS
+Barro-Lee: Percentage of population age 15+ with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.15UP.ZS
+Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.15UP.ZS
+Barro-Lee: Percentage of population age 15+ with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.15UP.ZS
+Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.15UP.ZS
+Barro-Lee: Percentage of population age 15+ with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.15UP.ZS
+Barro-Lee: Percentage of population age 15-19 with no education,BAR.NOED.1519.ZS
+Barro-Lee: Percentage of population age 15-19 with primary schooling. Completed Primary,BAR.PRM.CMPT.1519.ZS
+Barro-Lee: Percentage of population age 15-19 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.1519.ZS
+Barro-Lee: Percentage of population age 15-19 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.1519.ZS
+Barro-Lee: Percentage of population age 15-19 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.1519.ZS
+Barro-Lee: Percentage of population age 15-19 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.1519.ZS
+Barro-Lee: Percentage of population age 15-19 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.1519.ZS
+Barro-Lee: Percentage of population age 20-24 with no education,BAR.NOED.2024.ZS
+Barro-Lee: Percentage of population age 20-24 with primary schooling. Completed Primary,BAR.PRM.CMPT.2024.ZS
+Barro-Lee: Percentage of population age 20-24 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.2024.ZS
+Barro-Lee: Percentage of population age 20-24 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.2024.ZS
+Barro-Lee: Percentage of population age 20-24 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.2024.ZS
+Barro-Lee: Percentage of population age 20-24 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.2024.ZS
+Barro-Lee: Percentage of population age 20-24 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.2024.ZS
+Barro-Lee: Percentage of population age 25+ with no education,BAR.NOED.25UP.ZS
+Barro-Lee: Percentage of population age 25+ with primary schooling. Completed Primary,BAR.PRM.CMPT.25UP.ZS
+Barro-Lee: Percentage of population age 25+ with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.25UP.ZS
+Barro-Lee: Percentage of population age 25+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.25UP.ZS
+Barro-Lee: Percentage of population age 25+ with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.25UP.ZS
+Barro-Lee: Percentage of population age 25+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.25UP.ZS
+Barro-Lee: Percentage of population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.25UP.ZS
+Barro-Lee: Percentage of population age 25-29 with no education,BAR.NOED.2529.ZS
+Barro-Lee: Percentage of population age 25-29 with primary schooling. Completed Primary,BAR.PRM.CMPT.2529.ZS
+Barro-Lee: Percentage of population age 25-29 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.2529.ZS
+Barro-Lee: Percentage of population age 25-29 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.2529.ZS
+Barro-Lee: Percentage of population age 25-29 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.2529.ZS
+Barro-Lee: Percentage of population age 25-29 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.2529.ZS
+Barro-Lee: Percentage of population age 25-29 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.2529.ZS
+Barro-Lee: Percentage of population age 30-34 with no education,BAR.NOED.3034.ZS
+Barro-Lee: Percentage of population age 30-34 with primary schooling. Completed Primary,BAR.PRM.CMPT.3034.ZS
+Barro-Lee: Percentage of population age 30-34 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.3034.ZS
+Barro-Lee: Percentage of population age 30-34 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.3034.ZS
+Barro-Lee: Percentage of population age 30-34 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.3034.ZS
+Barro-Lee: Percentage of population age 30-34 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.3034.ZS
+Barro-Lee: Percentage of population age 30-34 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.3034.ZS
+Barro-Lee: Percentage of population age 35-39 with no education,BAR.NOED.3539.ZS
+Barro-Lee: Percentage of population age 35-39 with primary schooling. Completed Primary,BAR.PRM.CMPT.3539.ZS
+Barro-Lee: Percentage of population age 35-39 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.3539.ZS
+Barro-Lee: Percentage of population age 35-39 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.3539.ZS
+Barro-Lee: Percentage of population age 35-39 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.3539.ZS
+Barro-Lee: Percentage of population age 35-39 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.3539.ZS
+Barro-Lee: Percentage of population age 35-39 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.3539.ZS
+Barro-Lee: Percentage of population age 40-44 with no education,BAR.NOED.4044.ZS
+Barro-Lee: Percentage of population age 40-44 with primary schooling. Completed Primary,BAR.PRM.CMPT.4044.ZS
+Barro-Lee: Percentage of population age 40-44 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.4044.ZS
+Barro-Lee: Percentage of population age 40-44 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.4044.ZS
+Barro-Lee: Percentage of population age 40-44 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.4044.ZS
+Barro-Lee: Percentage of population age 40-44 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.4044.ZS
+Barro-Lee: Percentage of population age 40-44 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.4044.ZS
+Barro-Lee: Percentage of population age 45-49 with no education,BAR.NOED.4549.ZS
+Barro-Lee: Percentage of population age 45-49 with primary schooling. Completed Primary,BAR.PRM.CMPT.4549.ZS
+Barro-Lee: Percentage of population age 45-49 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.4549.ZS
+Barro-Lee: Percentage of population age 45-49 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.4549.ZS
+Barro-Lee: Percentage of population age 45-49 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.4549.ZS
+Barro-Lee: Percentage of population age 45-49 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.4549.ZS
+Barro-Lee: Percentage of population age 45-49 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.4549.ZS
+Barro-Lee: Percentage of population age 50-54 with no education,BAR.NOED.5054.ZS
+Barro-Lee: Percentage of population age 50-54 with primary schooling. Completed Primary,BAR.PRM.CMPT.5054.ZS
+Barro-Lee: Percentage of population age 50-54 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.5054.ZS
+Barro-Lee: Percentage of population age 50-54 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.5054.ZS
+Barro-Lee: Percentage of population age 50-54 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.5054.ZS
+Barro-Lee: Percentage of population age 50-54 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.5054.ZS
+Barro-Lee: Percentage of population age 50-54 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.5054.ZS
+Barro-Lee: Percentage of population age 55-59 with no education,BAR.NOED.5559.ZS
+Barro-Lee: Percentage of population age 55-59 with primary schooling. Completed Primary,BAR.PRM.CMPT.5559.ZS
+Barro-Lee: Percentage of population age 55-59 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.5559.ZS
+Barro-Lee: Percentage of population age 55-59 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.5559.ZS
+Barro-Lee: Percentage of population age 55-59 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.5559.ZS
+Barro-Lee: Percentage of population age 55-59 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.5559.ZS
+Barro-Lee: Percentage of population age 55-59 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.5559.ZS
+Barro-Lee: Percentage of population age 60-64 with no education,BAR.NOED.6064.ZS
+Barro-Lee: Percentage of population age 60-64 with primary schooling. Completed Primary,BAR.PRM.CMPT.6064.ZS
+Barro-Lee: Percentage of population age 60-64 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.6064.ZS
+Barro-Lee: Percentage of population age 60-64 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.6064.ZS
+Barro-Lee: Percentage of population age 60-64 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.6064.ZS
+Barro-Lee: Percentage of population age 60-64 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.6064.ZS
+Barro-Lee: Percentage of population age 60-64 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.6064.ZS
+Barro-Lee: Percentage of population age 65-69 with no education,BAR.NOED.6569.ZS
+Barro-Lee: Percentage of population age 65-69 with primary schooling. Completed Primary,BAR.PRM.CMPT.6569.ZS
+Barro-Lee: Percentage of population age 65-69 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.6569.ZS
+Barro-Lee: Percentage of population age 65-69 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.6569.ZS
+Barro-Lee: Percentage of population age 65-69 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.6569.ZS
+Barro-Lee: Percentage of population age 65-69 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.6569.ZS
+Barro-Lee: Percentage of population age 65-69 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.6569.ZS
+Barro-Lee: Percentage of population age 70-74 with no education,BAR.NOED.7074.ZS
+Barro-Lee: Percentage of population age 70-74 with primary schooling. Completed Primary,BAR.PRM.CMPT.7074.ZS
+Barro-Lee: Percentage of population age 70-74 with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.7074.ZS
+Barro-Lee: Percentage of population age 70-74 with secondary schooling. Completed Secondary,BAR.SEC.CMPT.7074.ZS
+Barro-Lee: Percentage of population age 70-74 with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.7074.ZS
+Barro-Lee: Percentage of population age 70-74 with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.7074.ZS
+Barro-Lee: Percentage of population age 70-74 with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.7074.ZS
+Barro-Lee: Percentage of population age 75+ with no education,BAR.NOED.75UP.ZS
+Barro-Lee: Percentage of population age 75+ with primary schooling. Completed Primary,BAR.PRM.CMPT.75UP.ZS
+Barro-Lee: Percentage of population age 75+ with primary schooling. Total (Incomplete and Completed Primary),BAR.PRM.ICMP.75UP.ZS
+Barro-Lee: Percentage of population age 75+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.75UP.ZS
+Barro-Lee: Percentage of population age 75+ with secondary schooling. Total (Incomplete and Completed Secondary),BAR.SEC.ICMP.75UP.ZS
+Barro-Lee: Percentage of population age 75+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.75UP.ZS
+Barro-Lee: Percentage of population age 75+ with tertiary schooling. Total (Incomplete and Completed Tertiary),BAR.TER.ICMP.75UP.ZS
+"Barro-Lee: Population in thousands, age 15+, female",BAR.POP.15UP.FE
+"Barro-Lee: Population in thousands, age 15+, total",BAR.POP.15UP
+"Barro-Lee: Population in thousands, age 15-19, female",BAR.POP.1519.FE
+"Barro-Lee: Population in thousands, age 15-19, total",BAR.POP.1519
+"Barro-Lee: Population in thousands, age 20-24, female",BAR.POP.2024.FE
+"Barro-Lee: Population in thousands, age 20-24, total",BAR.POP.2024
+"Barro-Lee: Population in thousands, age 25+, female",BAR.POP.25UP.FE
+"Barro-Lee: Population in thousands, age 25+, total",BAR.POP.25UP
+"Barro-Lee: Population in thousands, age 25-29, female",BAR.POP.2529.FE
+"Barro-Lee: Population in thousands, age 25-29, total",BAR.POP.2529
+"Barro-Lee: Population in thousands, age 30-34, female",BAR.POP.3034.FE
+"Barro-Lee: Population in thousands, age 30-34, total",BAR.POP.3034
+"Barro-Lee: Population in thousands, age 35-39, female",BAR.POP.3539.FE
+"Barro-Lee: Population in thousands, age 35-39, total",BAR.POP.3539
+"Barro-Lee: Population in thousands, age 40-44, female",BAR.POP.4044.FE
+"Barro-Lee: Population in thousands, age 40-44, total",BAR.POP.4044
+"Barro-Lee: Population in thousands, age 45-49, female",BAR.POP.4549.FE
+"Barro-Lee: Population in thousands, age 45-49, total",BAR.POP.4549
+"Barro-Lee: Population in thousands, age 50-54, female",BAR.POP.5054.FE
+"Barro-Lee: Population in thousands, age 50-54, total",BAR.POP.5054
+"Barro-Lee: Population in thousands, age 55-59, female",BAR.POP.5559.FE
+"Barro-Lee: Population in thousands, age 55-59, total",BAR.POP.5559
+"Barro-Lee: Population in thousands, age 60-64, female",BAR.POP.6064.FE
+"Barro-Lee: Population in thousands, age 60-64, total",BAR.POP.6064
+"Barro-Lee: Population in thousands, age 65-69, female",BAR.POP.6569.FE
+"Barro-Lee: Population in thousands, age 65-69, total",BAR.POP.6569
+"Barro-Lee: Population in thousands, age 70-74, female",BAR.POP.7074.FE
+"Barro-Lee: Population in thousands, age 70-74, total",BAR.POP.7074
+"Barro-Lee: Population in thousands, age 75+, female",BAR.POP.75UP.FE
+"Barro-Lee: Population in thousands, age 75+, total",BAR.POP.75UP
+Capital expenditure as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNCAP
+Capital expenditure as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNCAP
+Current expenditure as % of total expenditure in public institutions (%),SE.XPD.CUR.TOTL.ZS
+Current expenditure as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNCUR
+Current expenditure other than staff compensation as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNNONS
+Current expenditure other than staff compensation as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNNONS
+Duration of compulsory education (years),SE.COM.DURS
+"Enrolment in early childhood education, both sexes (number)",UIS.E.0.T
+"Enrolment in early childhood education, female (number)",UIS.E.0.F
+"Enrolment in early childhood education, private institutions, both sexes (number)",UIS.E.0.PR.T
+"Enrolment in early childhood education, public institutions, both sexes (number)",UIS.E.0.PU.T
+"Enrolment in lower secondary education, both sexes (number)",UIS.E.2
+"Enrolment in lower secondary education, female (number)",UIS.E.2.F
+"Enrolment in lower secondary education, public institutions, both sexes (number)",UIS.E.2.PU
+"Enrolment in lower secondary education, public institutions, female (number)",UIS.E.2.PU.F
+"Enrolment in lower secondary general, both sexes (number)",UIS.E.2.GPV
+"Enrolment in lower secondary general, female (number)",UIS.E.2.GPV.F
+"Enrolment in post-secondary non-tertiary education, both sexes (number)",UIS.E.4
+"Enrolment in post-secondary non-tertiary education, female (number)",UIS.E.4.F
+"Enrolment in pre-primary education, both sexes (number)",SE.PRE.ENRL
+"Enrolment in pre-primary education, female (number)",SE.PRE.ENRL.FE
+"Enrolment in pre-primary education, private institutions, both sexes (number)",UIS.E.02.PR
+"Enrolment in pre-primary education, private institutions, female (number)",UIS.E.02.PR.F
+"Enrolment in pre-primary education, public institutions, both sexes (number)",UIS.E.02.PU
+"Enrolment in pre-primary education, public institutions, female (number)",UIS.E.02.PU.F
+"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL
+"Enrolment in primary education, female (number)",SE.PRM.ENRL.FE
+"Enrolment in primary education, private institutions, both sexes (number)",UIS.E.1.PR
+"Enrolment in primary education, private institutions, female (number)",UIS.E.1.PR.F
+"Enrolment in primary education, public institutions, both sexes (number)",UIS.E.1.PU
+"Enrolment in primary education, public institutions, female (number)",UIS.E.1.PU.F
+"Enrolment in secondary education, both sexes (number)",SE.SEC.ENRL
+"Enrolment in secondary education, female (number)",SE.SEC.ENRL.FE
+"Enrolment in secondary education, private institutions, both sexes (number)",UIS.E.23.PR
+"Enrolment in secondary education, public institutions, both sexes (number)",UIS.E.23.PU
+"Enrolment in secondary general, both sexes (number)",SE.SEC.ENRL.GC
+"Enrolment in secondary general, female (number)",SE.SEC.ENRL.GC.FE
+"Enrolment in secondary vocational, both sexes (number)",SE.SEC.ENRL.VO
+"Enrolment in secondary vocational, female (number)",SE.SEC.ENRL.VO.FE
+"Enrolment in tertiary education per 100,000 inhabitants, both sexes",UIS.TE_100000.56
+"Enrolment in tertiary education per 100,000 inhabitants, female",UIS.TE_100000.56.F
+"Enrolment in tertiary education per 100,000 inhabitants, male",UIS.TE_100000.56.M
+"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL
+"Enrolment in tertiary education, all programmes, female (number)",SE.TER.ENRL.FE
+"Enrolment in tertiary education, ISCED 5 programmes, both sexes (number)",UIS.E.5.B
+"Enrolment in tertiary education, ISCED 5 programmes, female (number)",UIS.E.5.B.F
+"Enrolment in tertiary education, ISCED 8 programmes, both sexes (number)",UIS.E.8
+"Enrolment in tertiary education, ISCED 8 programmes, female (number)",UIS.E.8.F
+"Enrolment in upper secondary education, both sexes (number)",UIS.E.3
+"Enrolment in upper secondary education, female (number)",UIS.E.3.F
+"Enrolment in upper secondary education, private institutions, both sexes (number)",UIS.E.3.PR
+"Enrolment in upper secondary education, public institutions, both sexes (number)",UIS.E.3.PU
+"Enrolment in upper secondary general, both sexes (number)",UIS.E.3.GPV
+"Enrolment in upper secondary general, female (number)",UIS.E.3.GPV.F
+"Enrolment in upper secondary vocational, both sexes (number)",UIS.E.3.V
+"Enrolment in upper secondary vocational, female (number)",UIS.E.3.V.F
+Expenditure on education as % of total government expenditure (%),SE.XPD.TOTL.GB.ZS
+Expenditure on secondary as % of government expenditure on education (%),SE.XPD.SECO.ZS
+Expenditure on secondary as % of total government expenditure (%),UIS.XGOVEXP.IMF.23
+Expenditure on tertiary as % of government expenditure on education (%),SE.XPD.TERT.ZS
+Expenditure on tertiary as % of total government expenditure (%),UIS.XGOVEXP.IMF.56
+GDP at market prices (constant 2005 US$),NY.GDP.MKTP.KD
+GDP at market prices (current US$),NY.GDP.MKTP.CD
+GDP per capita (constant 2005 US$),NY.GDP.PCAP.KD
+GDP per capita (current US$),NY.GDP.PCAP.CD
+"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD
+"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD
+"GDP, PPP (constant 2011 international $)",NY.GDP.MKTP.PP.KD
+"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD
+GNI (current US$),NY.GNP.MKTP.CD
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD
+"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD
+"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD
+Government expenditure in educational institutions as % of GDP (%),UIS.XGDP.FSGOV.FDINSTADM.FFD
+Government expenditure in secondary institutions education as % of GDP (%),XGDP.23.FSGOV.FDINSTADM.FFD
+Government expenditure in tertiary institutions as % of GDP (%),XGDP.56.FSGOV.FDINSTADM.FFD
+Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS
+Government expenditure on secondary education as % of GDP (%),UIS.XGDP.23.FSGOV
+Government expenditure on tertiary education as % of GDP (%),UIS.XGDP.56.FSGOV
+Government expenditure per secondary student (constant PPP$),UIS.XUNIT.PPPCONST.23.FSGOV
+Government expenditure per secondary student (constant US$),UIS.XUNIT.USCONST.23.FSGOV
+Government expenditure per secondary student (PPP$),UIS.XUNIT.PPP.23.FSGOV
+Government expenditure per secondary student (US$),UIS.XUNIT.US.23.FSGOV
+Government expenditure per secondary student as % of GDP per capita (%),SE.XPD.SECO.PC.ZS
+Government expenditure per tertiary student as % of GDP per capita (%),SE.XPD.TERT.PC.ZS
+"Graduates from ISCED 5 programmes in tertiary education, both sexes (number)",UIS.G.5.B.T
+"Graduates from ISCED 5 programmes in tertiary education, female (number)",UIS.G.5.B.F
+"Graduates from ISCED 8 programmes in tertiary education, both sexes (number)",UIS.G.8.T
+"Graduates from ISCED 8 programmes in tertiary education, female (number)",UIS.G.8.F
+"Graduates from tertiary education, both sexes (number)",SE.TER.GRAD
+"Graduates from tertiary education, female (number)",SE.TER.GRAD.FE
+"Gross enrolment ratio, lower secondary, both sexes (%)",SE.SEC.ENRR.LO
+"Gross enrolment ratio, lower secondary, female (%)",SE.SEC.ENRR.LO.FE
+"Gross enrolment ratio, lower secondary, gender parity index (GPI)",UIS.GER.2.GPI
+"Gross enrolment ratio, lower secondary, male (%)",SE.SEC.ENRR.LO.MA
+"Gross enrolment ratio, post-secondary non-tertiary, both sexes (%)",UIS.GER.4
+"Gross enrolment ratio, post-secondary non-tertiary, female (%)",UIS.GER.4.F
+"Gross enrolment ratio, post-secondary non-tertiary, gender parity index (GPI)",UIS.GER.4.GPI
+"Gross enrolment ratio, post-secondary non-tertiary, male (%)",UIS.GER.4.M
+"Gross enrolment ratio, pre-primary, both sexes (%)",SE.PRE.ENRR
+"Gross enrolment ratio, pre-primary, female (%)",SE.PRE.ENRR.FE
+"Gross enrolment ratio, pre-primary, gender parity index (GPI)",UIS.GER.0.GPI
+"Gross enrolment ratio, pre-primary, male (%)",SE.PRE.ENRR.MA
+"Gross enrolment ratio, primary and lower secondary, both sexes (%)",UIS.GER.12
+"Gross enrolment ratio, primary and lower secondary, female (%)",UIS.GER.12.F
+"Gross enrolment ratio, primary and lower secondary, gender parity index (GPI)",UIS.GER.12.GPI
+"Gross enrolment ratio, primary and lower secondary, male (%)",UIS.GER.12.M
+"Gross enrolment ratio, primary and secondary, both sexes (%)",UIS.GER.123
+"Gross enrolment ratio, primary and secondary, female (%)",UIS.GER.123.F
+"Gross enrolment ratio, primary and secondary, gender parity index (GPI)",SE.ENR.PRSC.FM.ZS
+"Gross enrolment ratio, primary and secondary, male (%)",UIS.GER.123.M
+"Gross enrolment ratio, primary to tertiary, both sexes (%)",SE.TOT.ENRR
+"Gross enrolment ratio, primary to tertiary, female (%)",UIS.GER.1T6.F
+"Gross enrolment ratio, primary to tertiary, gender parity index (GPI)",UIS.GER.1T6.GPI
+"Gross enrolment ratio, primary to tertiary, male (%)",UIS.GER.1T6.M
+"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR
+"Gross enrolment ratio, primary, female (%)",SE.PRM.ENRR.FE
+"Gross enrolment ratio, primary, gender parity index (GPI)",SE.ENR.PRIM.FM.ZS
+"Gross enrolment ratio, primary, male (%)",SE.PRM.ENRR.MA
+"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR
+"Gross enrolment ratio, secondary, female (%)",SE.SEC.ENRR.FE
+"Gross enrolment ratio, secondary, gender parity index (GPI)",SE.ENR.SECO.FM.ZS
+"Gross enrolment ratio, secondary, male (%)",SE.SEC.ENRR.MA
+"Gross enrolment ratio, tertiary, both sexes (%)",SE.TER.ENRR
+"Gross enrolment ratio, tertiary, female (%)",SE.TER.ENRR.FE
+"Gross enrolment ratio, tertiary, gender parity index (GPI)",SE.ENR.TERT.FM.ZS
+"Gross enrolment ratio, tertiary, male (%)",SE.TER.ENRR.MA
+"Gross enrolment ratio, upper secondary, both sexes (%)",SE.SEC.ENRR.UP
+"Gross enrolment ratio, upper secondary, female (%)",SE.SEC.ENRR.UP.FE
+"Gross enrolment ratio, upper secondary, gender parity index (GPI)",UIS.GER.3.GPI
+"Gross enrolment ratio, upper secondary, male (%)",SE.SEC.ENRR.UP.MA
+"Gross graduation ratio from first degree programmes (ISCED 6 and 7) in tertiary education, both sexes (%)",SE.TER.CMPL.ZS
+"Gross graduation ratio from first degree programmes (ISCED 6 and 7) in tertiary education, female (%)",SE.TER.CMPL.FE.ZS
+"Gross graduation ratio from first degree programmes (ISCED 6 and 7) in tertiary education, gender parity index (GPI)",UIS.GGR.5.A.GPI
+"Gross graduation ratio from first degree programmes (ISCED 6 and 7) in tertiary education, male (%)",SE.TER.CMPL.MA.ZS
+"Gross outbound enrolment ratio, all regions, both sexes (%)",UIS.GOER.56
+"Inbound mobility rate, both sexes (%)",UIS.MSEP.56
+"Inbound mobility rate, female (%)",UIS.MSEP.56.F
+"Inbound mobility rate, male (%)",UIS.MSEP.56.M
+Internet users (per 100 people),IT.NET.USER.P2
+Labor force with advanced education (% of total),SL.TLF.ADVN.ZS
+"Labor force with advanced education, female (% of female labor force)",SL.TLF.ADVN.FE.ZS
+"Labor force with advanced education, male (% of male labor force)",SL.TLF.ADVN.MA.ZS
+Labor force with basic education (% of total),SL.TLF.BASC.ZS
+"Labor force with basic education, female (% of female labor force)",SL.TLF.BASC.FE.ZS
+"Labor force with basic education, male (% of male labor force)",SL.TLF.BASC.MA.ZS
+Labor force with intermediate education (% of total),SL.TLF.INTM.ZS
+"Labor force with intermediate education, female (% of female labor force)",SL.TLF.INTM.FE.ZS
+"Labor force with intermediate education, male (% of male labor force)",SL.TLF.INTM.MA.ZS
+"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS
+"Labor force, total",SL.TLF.TOTL.IN
+"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT
+"Net flow of internationally mobile students (inbound - outbound), both sexes (number)",UIS.MENF.56
+"Net flow ratio of internationally mobile students (inbound - outbound), both sexes (%)",UIS.MENFR.56
+Official entrance age to compulsory education (years),UIS.CEAGE.1
+Official entrance age to lower secondary education (years),SE.SEC.AGES
+Official entrance age to post-secondary non-tertiary education (years),UIS.THAGE.4.A.GPV
+Official entrance age to pre-primary education (years),UIS.THAGE.0
+Official entrance age to primary education (years),SE.PRM.AGES
+Official entrance age to upper secondary education (years),UIS.THAGE.3.A.GPV
+"Outbound mobility ratio, all regions, both sexes (%)",UIS.OMR.56
+"Percentage of all inbound internationally mobile students in tertiary education in the host country who are female, (%)",UIS.FEP.56.FOREIGN
+"Percentage of all students in tertiary education enrolled in ISCED 5, both sexes (%)",UIS.TEP.5.B
+"Percentage of all students in tertiary education enrolled in ISCED 8, both sexes (%)",UIS.TEP.8
+Percentage of enrolment in early childhood education programmes in private institutions (%),UIS.PRP.0
+Percentage of enrolment in pre-primary education in private institutions (%),SE.PRE.PRIV.ZS
+Percentage of enrolment in primary education in private institutions (%),SE.PRM.PRIV.ZS
+Percentage of enrolment in secondary education in private institutions (%),SE.SEC.PRIV.ZS
+Percentage of enrolment in upper secondary education in private institutions (%),UIS.PRP.3
+"Percentage of female graduates from tertiary education graduating from Agriculture programmes, female (%)",SE.TER.GRAD.AG.FE.ZS
+"Percentage of female graduates from tertiary education graduating from Education programmes, female (%)",SE.TER.GRAD.ED.FE.ZS
+"Percentage of female graduates from tertiary education graduating from Engineering, Manufacturing and Construction programmes, female (%)",SE.TER.GRAD.EN.FE.ZS
+"Percentage of female graduates from tertiary education graduating from Health and Welfare programmes, female (%)",SE.TER.GRAD.HL.FE.ZS
+"Percentage of female graduates from tertiary education graduating from Humanities and Arts programmes, female (%)",SE.TER.GRAD.HU.FE.ZS
+"Percentage of female graduates from tertiary education graduating from programmes in unspecified fields, female (%)",SE.TER.GRAD.OT.FE.ZS
+"Percentage of female graduates from tertiary education graduating from Science programmes, female (%)",SE.TER.GRAD.SC.FE.ZS
+"Percentage of female graduates from tertiary education graduating from Services programmes, female (%)",SE.TER.GRAD.SV.FE.ZS
+"Percentage of female graduates from tertiary education graduating from Social Sciences, Business and Law programmes, female (%)",SE.TER.GRAD.SS.FE.ZS
+"Percentage of female students in lower secondary education enrolled in general programmes, female (%)",UIS.GTVP.2.GPV.F
+"Percentage of female students in secondary education enrolled in general programmes, female (%)",UIS.GTVP.23.GPV.F
+"Percentage of female students in secondary education enrolled in vocational programmes, female (%)",SE.SEC.ENRL.FE.VO.ZS
+"Percentage of female students in tertiary education enrolled in Agriculture programmes, female (%)",UIS.FOSEP.56.F600.F
+"Percentage of female students in tertiary education enrolled in Education programmes, female (%)",UIS.FOSEP.56.F140.F
+"Percentage of female students in tertiary education enrolled in Engineering, Manufacturing and Construction programmes, female (%)",UIS.FOSEP.56.F500.F
+"Percentage of female students in tertiary education enrolled in Health and Welfare programmes, female (%)",UIS.FOSEP.56.F700.F
+"Percentage of female students in tertiary education enrolled in Humanities and Arts programmes, female (%)",UIS.FOSEP.56.F200.F
+Percentage of female students in tertiary education enrolled in ISCED 5,UIS.TEP.5.B.F
+Percentage of female students in tertiary education enrolled in ISCED 8,UIS.TEP.8.F
+"Percentage of female students in tertiary education enrolled in programmes in unspecified fields, female (%)",UIS.FOSEP.56.FUK.F
+"Percentage of female students in tertiary education enrolled in Science programmes, female (%)",UIS.FOSEP.56.F400.F
+"Percentage of female students in tertiary education enrolled in Services programmes, female (%)",UIS.FOSEP.56.F800.F
+"Percentage of female students in tertiary education enrolled in Social Sciences, Business and Law programmes, female (%)",UIS.FOSEP.56.F300.F
+"Percentage of female students in upper secondary education enrolled in general programmes, female (%)",UIS.GTVP.3.GPV.F
+"Percentage of female students in upper secondary education enrolled in vocational programmes, female (%)",UIS.GTVP.3.V.F
+Percentage of graduates from Agriculture programmes in tertiary education who are female (%),SE.TER.GRAD.FE.AG.ZS
+Percentage of graduates from Education programmes in tertiary education who are female (%),SE.TER.GRAD.FE.ED.ZS
+"Percentage of graduates from Engineering, Manufacturing and Construction programmes in tertiary education who are female (%)",SE.TER.GRAD.FE.EN.ZS
+Percentage of graduates from Health and Welfare programmes in tertiary education who are female (%),SE.TER.GRAD.FE.HL.ZS
+Percentage of graduates from Humanities and Arts programmes in tertiary education who are female (%),SE.TER.GRAD.FE.HU.ZS
+Percentage of graduates from non-science and non-technology fields in tertiary education who are female (%),UIS.FGP.56.FNON400500
+Percentage of graduates from Science and Technology programmes in tertiary education who are female (%),UIS.FGP.56.F400500
+Percentage of graduates from Science programmes in tertiary education who are female (%),SE.TER.GRAD.FE.SC.ZS
+Percentage of graduates from Services programmes in tertiary education who are female (%),SE.TER.GRAD.FE.SV.ZS
+"Percentage of graduates from Social Sciences, Business and Law programmes in tertiary education who are female (%)",SE.TER.GRAD.FE.SS.ZS
+"Percentage of graduates from tertiary education graduating from Agriculture programmes, both sexes (%)",SE.TER.GRAD.AG.ZS
+"Percentage of graduates from tertiary education graduating from Education programmes, both sexes (%)",SE.TER.GRAD.ED.ZS
+"Percentage of graduates from tertiary education graduating from Engineering, Manufacturing and Construction programmes, both sexes (%)",SE.TER.GRAD.EN.ZS
+"Percentage of graduates from tertiary education graduating from Health and Welfare programmes, both sexes (%)",SE.TER.GRAD.HL.ZS
+"Percentage of graduates from tertiary education graduating from Humanities and Arts programmes, both sexes (%)",SE.TER.GRAD.HU.ZS
+"Percentage of graduates from tertiary education graduating from programmes in unspecified fields, both sexes (%)",SE.TER.GRAD.OT.ZS
+"Percentage of graduates from tertiary education graduating from Science programmes, both sexes (%)",SE.TER.GRAD.SC.ZS
+"Percentage of graduates from tertiary education graduating from Services programmes, both sexes (%)",SE.TER.GRAD.SV.ZS
+"Percentage of graduates from tertiary education graduating from Social Sciences, Business and Law programmes, both sexes (%)",SE.TER.GRAD.SS.ZS
+Percentage of graduates from tertiary education who are female (%),SE.TER.GRAD.FE.ZS
+Percentage of graduates from tertiary ISCED 5 programmes who are female (%),UIS.FGP.5.B
+Percentage of graduates from tertiary ISCED 8 programmes who are female (%),UIS.FGP.8
+"Percentage of male graduates from tertiary education graduating from Agriculture programmes, male (%)",UIS.FOSGP.56.F600.M
+"Percentage of male graduates from tertiary education graduating from Education programmes, male (%)",UIS.FOSGP.56.F140.M
+"Percentage of male graduates from tertiary education graduating from Engineering, Manufacturing and Construction programmes, male (%)",UIS.FOSGP.56.F500.M
+"Percentage of male graduates from tertiary education graduating from Health and Welfare programmes, male (%)",UIS.FOSGP.56.F700.M
+"Percentage of male graduates from tertiary education graduating from Humanities and Arts programmes, male (%)",UIS.FOSGP.56.F200.M
+"Percentage of male graduates from tertiary education graduating from Science programmes, male (%)",UIS.FOSGP.56.F400.M
+"Percentage of male graduates from tertiary education graduating from Services programmes, male (%)",UIS.FOSGP.56.F800.M
+"Percentage of male graduates from tertiary education graduating from Social Sciences, Business and Law programmes, male (%)",UIS.FOSGP.56.F300.M
+"Percentage of male students in lower secondary education enrolled in general programmes, male (%)",UIS.GTVP.2.GPV.M
+"Percentage of male students in secondary education enrolled in general programmes, male (%)",UIS.GTVP.23.GPV.M
+"Percentage of male students in secondary education enrolled in vocational programmes, male (%)",SE.SEC.ENRL.MA.VO.ZS
+"Percentage of male students in tertiary education enrolled in Agriculture programmes, male (%)",UIS.FOSEP.56.F600.M
+"Percentage of male students in tertiary education enrolled in Education programmes, male (%)",UIS.FOSEP.56.F140.M
+"Percentage of male students in tertiary education enrolled in Engineering, Manufacturing and Construction programmes, male (%)",UIS.FOSEP.56.F500.M
+"Percentage of male students in tertiary education enrolled in Health and Welfare programmes, male (%)",UIS.FOSEP.56.F700.M
+"Percentage of male students in tertiary education enrolled in Humanities and Arts programmes, male (%)",UIS.FOSEP.56.F200.M
+Percentage of male students in tertiary education enrolled in ISCED 5,UIS.TEP.5.B.M
+Percentage of male students in tertiary education enrolled in ISCED 8,UIS.TEP.8.M
+"Percentage of male students in tertiary education enrolled in programmes in unspecified fields, male (%)",UIS.FOSEP.56.FUK.M
+"Percentage of male students in tertiary education enrolled in Science programmes, male (%)",UIS.FOSEP.56.F400.M
+"Percentage of male students in tertiary education enrolled in Services programmes, male (%)",UIS.FOSEP.56.F800.M
+"Percentage of male students in tertiary education enrolled in Social Sciences, Business and Law programmes, male (%)",UIS.FOSEP.56.F300.M
+"Percentage of male students in upper secondary education enrolled in general programmes, male (%)",UIS.GTVP.3.GPV.M
+"Percentage of male students in upper secondary education enrolled in vocational programmes, male (%)",UIS.GTVP.3.V.M
+Percentage of students enrolled in Agriculture programmes in tertiary education who are female (%),UIS.FEP.56.F600
+Percentage of students enrolled in Education programmes in tertiary education who are female (%),UIS.FEP.56.F140
+"Percentage of students enrolled in Engineering, Manufacturing and Construction programmes in tertiary education who are female (%)",UIS.FEP.56.F500
+Percentage of students enrolled in Health and Welfare programmes in tertiary education who are female (%),UIS.FEP.56.F700
+Percentage of students enrolled in Humanities and Arts programmes in tertiary education who are female (%),UIS.FEP.56.F200
+Percentage of students enrolled in programmes in unspecified fields in tertiary education who are female (%),UIS.FEP.56.FUK
+Percentage of students enrolled in Science programmes in tertiary education who are female (%),UIS.FEP.56.F400
+Percentage of students enrolled in Services programmes in tertiary education who are female (%),UIS.FEP.56.F800
+"Percentage of students enrolled in Social Sciences, Business and Law programmes in tertiary education who are female (%)",UIS.FEP.56.F300
+Percentage of students in early childhood education who are female (%),UIS.FEP.0
+"Percentage of students in lower secondary education enrolled in general programmes, both sexes (%)",UIS.GTVP.2.GPV
+Percentage of students in lower secondary education who are female (%),UIS.FEP.2
+Percentage of students in lower secondary general education who are female (%),UIS.FEP.2.GPV
+Percentage of students in post-secondary non-tertiary education who are female (%),UIS.FEP.4
+Percentage of students in pre-primary education who are female (%),SE.PRE.ENRL.FE.ZS
+Percentage of students in primary education who are female (%),SE.PRM.ENRL.FE.ZS
+"Percentage of students in secondary education enrolled in general programmes, both sexes (%)",UIS.GTVP.23.GPV
+"Percentage of students in secondary education enrolled in vocational programmes, both sexes (%)",SE.SEC.ENRL.VO.ZS
+Percentage of students in secondary education who are female (%),SE.SEC.ENRL.FE.ZS
+Percentage of students in secondary general education who are female (%),SE.SEC.ENRL.GC.FE.ZS
+Percentage of students in secondary vocational education who are female (%),SE.SEC.ENRL.VO.FE.ZS
+"Percentage of students in tertiary education enrolled in Agriculture programmes, both sexes (%)",UIS.FOSEP.56.F600
+"Percentage of students in tertiary education enrolled in Education programmes, both sexes (%)",UIS.FOSEP.56.F140
+"Percentage of students in tertiary education enrolled in Engineering, Manufacturing and Construction programmes, both sexes (%)",UIS.FOSEP.56.F500
+"Percentage of students in tertiary education enrolled in Health and Welfare programmes, both sexes (%)",UIS.FOSEP.56.F700
+"Percentage of students in tertiary education enrolled in Humanities and Arts programmes, both sexes (%)",UIS.FOSEP.56.F200
+"Percentage of students in tertiary education enrolled in programmes in unspecified fields, both sexes (%)",UIS.FOSEP.56.FUK
+"Percentage of students in tertiary education enrolled in Science programmes, both sexes (%)",UIS.FOSEP.56.F400
+"Percentage of students in tertiary education enrolled in Services programmes, both sexes (%)",UIS.FOSEP.56.F800
+"Percentage of students in tertiary education enrolled in Social Sciences, Business and Law programmes, both sexes (%)",UIS.FOSEP.56.F300
+Percentage of students in tertiary education who are female (%),SE.TER.ENRL.FE.ZS
+Percentage of students in tertiary ISCED 5 programmes who are female (%),UIS.FEP.5.B
+Percentage of students in tertiary ISCED 8 programmes who are female (%),UIS.FEP.8
+"Percentage of students in upper secondary education enrolled in general programmes, both sexes (%)",UIS.GTVP.3.GPV
+"Percentage of students in upper secondary education enrolled in vocational programmes, both sexes (%)",UIS.GTVP.3.V
+Percentage of students in upper secondary education who are female (%),UIS.FEP.3
+Percentage of students in upper secondary general education who are female (%),UIS.FEP.3.GPV
+Percentage of students in upper secondary vocational education who are female (%),UIS.FEP.3.V
+Percentage of teachers in primary education who are female (%),SE.PRM.TCHR.FE.ZS
+Percentage of teachers in tertiary education who are female (%),SE.TER.TCHR.FE.ZS
+Personal computers (per 100 people),IT.CMP.PCMP.P2
+PISA: 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0
+PISA: 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1
+PISA: 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2
+PISA: 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3
+PISA: 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4
+PISA: 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5
+PISA: 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6
+PISA: 15-year-olds by reading proficiency level (%). Below Level 1B,LO.PISA.REA.0
+PISA: 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A
+PISA: 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B
+PISA: 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2
+PISA: 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3
+PISA: 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4
+PISA: 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5
+PISA: 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6
+PISA: 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0
+PISA: 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A
+PISA: 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B
+PISA: 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2
+PISA: 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3
+PISA: 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4
+PISA: 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5
+PISA: 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6
+PISA: Distribution of Mathematics Scores: 10th Percentile Score,LO.PISA.MAT.P10
+PISA: Distribution of Mathematics Scores: 25th Percentile Score,LO.PISA.MAT.P25
+PISA: Distribution of Mathematics Scores: 50th Percentile Score,LO.PISA.MAT.P50
+PISA: Distribution of Mathematics Scores: 5th Percentile Score,LO.PISA.MAT.P05
+PISA: Distribution of Mathematics Scores: 75th Percentile Score,LO.PISA.MAT.P75
+PISA: Distribution of Mathematics Scores: 90th Percentile Score,LO.PISA.MAT.P90
+PISA: Distribution of Mathematics Scores: 95th Percentile Score,LO.PISA.MAT.P95
+PISA: Distribution of Reading Scores: 10th Percentile Score,LO.PISA.REA.P10
+PISA: Distribution of Reading Scores: 25th Percentile Score,LO.PISA.REA.P25
+PISA: Distribution of Reading Scores: 50th Percentile Score,LO.PISA.REA.P50
+PISA: Distribution of Reading Scores: 5th Percentile Score,LO.PISA.REA.P05
+PISA: Distribution of Reading Scores: 75th Percentile Score,LO.PISA.REA.P75
+PISA: Distribution of Reading Scores: 90th Percentile Score,LO.PISA.REA.P90
+PISA: Distribution of Reading Scores: 95th Percentile Score,LO.PISA.REA.P95
+PISA: Distribution of Science Scores: 10th Percentile Score,LO.PISA.SCI.P10
+PISA: Distribution of Science Scores: 25th Percentile Score,LO.PISA.SCI.P25
+PISA: Distribution of Science Scores: 50th Percentile Score,LO.PISA.SCI.P50
+PISA: Distribution of Science Scores: 5th Percentile Score,LO.PISA.SCI.P05
+PISA: Distribution of Science Scores: 75th Percentile Score,LO.PISA.SCI.P75
+PISA: Distribution of Science Scores: 90th Percentile Score,LO.PISA.SCI.P90
+PISA: Distribution of Science Scores: 95th Percentile Score,LO.PISA.SCI.P95
+PISA: Female 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.FE
+PISA: Female 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.FE
+PISA: Female 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.FE
+PISA: Female 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.FE
+PISA: Female 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.FE
+PISA: Female 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.FE
+PISA: Female 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.FE
+PISA: Female 15-year-olds by reading proficiency level (%). Below Level 1B,LO.PISA.REA.0.FE
+PISA: Female 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.FE
+PISA: Female 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.FE
+PISA: Female 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.FE
+PISA: Female 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.FE
+PISA: Female 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.FE
+PISA: Female 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.FE
+PISA: Female 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.FE
+PISA: Female 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.FE
+PISA: Female 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.FE
+PISA: Female 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.FE
+PISA: Female 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.FE
+PISA: Female 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.FE
+PISA: Female 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.FE
+PISA: Female 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.FE
+PISA: Female 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.FE
+PISA: Male 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.MA
+PISA: Male 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.MA
+PISA: Male 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.MA
+PISA: Male 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.MA
+PISA: Male 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.MA
+PISA: Male 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.MA
+PISA: Male 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.MA
+PISA: Male 15-year-olds by reading proficiency level (%). Below Level 1B,LO.PISA.REA.0.MA
+PISA: Male 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.MA
+PISA: Male 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.MA
+PISA: Male 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.MA
+PISA: Male 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.MA
+PISA: Male 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.MA
+PISA: Male 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.MA
+PISA: Male 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.MA
+PISA: Male 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.MA
+PISA: Male 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.MA
+PISA: Male 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.MA
+PISA: Male 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.MA
+PISA: Male 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.MA
+PISA: Male 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.MA
+PISA: Male 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.MA
+PISA: Male 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.MA
+PISA: Mean performance on the mathematics scale,LO.PISA.MAT
+PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE
+PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA
+PISA: Mean performance on the reading scale,LO.PISA.REA
+PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE
+PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA
+PISA: Mean performance on the science scale,LO.PISA.SCI
+PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE
+PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA
+Population growth (annual %),SP.POP.GROW
+"Population of compulsory school age, both sexes (number)",UIS.SAP.CE
+"Population of compulsory school age, female (number)",UIS.SAP.CE.F
+"Population of compulsory school age, male (number)",UIS.SAP.CE.M
+"Population of the official age for lower secondary education, both sexes (number)",SP.SEC.LTOT.IN
+"Population of the official age for lower secondary education, female (number)",SP.SEC.LTOT.FE.IN
+"Population of the official age for lower secondary education, male (number)",SP.SEC.LTOT.MA.IN
+"Population of the official age for post-secondary non-tertiary education, both sexes (number)",UIS.SAP.4
+"Population of the official age for post-secondary non-tertiary education, female (number)",UIS.SAP.4.F
+"Population of the official age for post-secondary non-tertiary education, male (number)",UIS.SAP.4.M
+"Population of the official age for pre-primary education, both sexes (number)",SP.PRE.TOTL.IN
+"Population of the official age for pre-primary education, female (number)",SP.PRE.TOTL.FE.IN
+"Population of the official age for pre-primary education, male (number)",SP.PRE.TOTL.MA.IN
+"Population of the official age for primary education, both sexes (number)",SP.PRM.TOTL.IN
+"Population of the official age for primary education, female (number)",SP.PRM.TOTL.FE.IN
+"Population of the official age for primary education, male (number)",SP.PRM.TOTL.MA.IN
+"Population of the official age for secondary education, both sexes (number)",SP.SEC.TOTL.IN
+"Population of the official age for secondary education, female (number)",SP.SEC.TOTL.FE.IN
+"Population of the official age for secondary education, male (number)",SP.SEC.TOTL.MA.IN
+"Population of the official age for tertiary education, both sexes (number)",SP.TER.TOTL.IN
+"Population of the official age for tertiary education, female (number)",SP.TER.TOTL.FE.IN
+"Population of the official age for tertiary education, male (number)",SP.TER.TOTL.MA.IN
+"Population of the official age for upper secondary education, both sexes (number)",SP.SEC.UTOT.IN
+"Population of the official age for upper secondary education, female (number)",SP.SEC.UTOT.FE.IN
+"Population of the official age for upper secondary education, male (number)",SP.SEC.UTOT.MA.IN
+"Population of the official entrance age to primary education, both sexes (number)",UIS.SAP.1.G1
+"Population of the official entrance age to primary education, female (number)",UIS.SAP.1.G1.F
+"Population of the official entrance age to primary education, male (number)",UIS.SAP.1.G1.M
+"Population of the official entrance age to secondary general education, both sexes (number)",UIS.SAP.23.GPV.G1
+"Population of the official entrance age to secondary general education, female (number)",UIS.SAP.23.GPV.G1.F
+"Population of the official entrance age to secondary general education, male (number)",UIS.SAP.23.GPV.G1.M
+"Population, age 0, female",SP.POP.AG00.FE.UN
+"Population, age 0, male",SP.POP.AG00.MA.UN
+"Population, age 0, total",SP.POP.AG00.TO.UN
+"Population, age 1, female",SP.POP.AG01.FE.UN
+"Population, age 1, male",SP.POP.AG01.MA.UN
+"Population, age 1, total",SP.POP.AG01.TO.UN
+"Population, age 10, female",SP.POP.AG10.FE.UN
+"Population, age 10, male",SP.POP.AG10.MA.UN
+"Population, age 10, total",SP.POP.AG10.TO.UN
+"Population, age 11, female",SP.POP.AG11.FE.UN
+"Population, age 11, male",SP.POP.AG11.MA.UN
+"Population, age 11, total",SP.POP.AG11.TO.UN
+"Population, age 12, female",SP.POP.AG12.FE.UN
+"Population, age 12, male",SP.POP.AG12.MA.UN
+"Population, age 12, total",SP.POP.AG12.TO.UN
+"Population, age 13, female",SP.POP.AG13.FE.UN
+"Population, age 13, male",SP.POP.AG13.MA.UN
+"Population, age 13, total",SP.POP.AG13.TO.UN
+"Population, age 14, female",SP.POP.AG14.FE.UN
+"Population, age 14, male",SP.POP.AG14.MA.UN
+"Population, age 14, total",SP.POP.AG14.TO.UN
+"Population, age 15, female",SP.POP.AG15.FE.UN
+"Population, age 15, male",SP.POP.AG15.MA.UN
+"Population, age 15, total",SP.POP.AG15.TO.UN
+"Population, age 16, female",SP.POP.AG16.FE.UN
+"Population, age 16, male",SP.POP.AG16.MA.UN
+"Population, age 16, total",SP.POP.AG16.TO.UN
+"Population, age 17, female",SP.POP.AG17.FE.UN
+"Population, age 17, male",SP.POP.AG17.MA.UN
+"Population, age 17, total",SP.POP.AG17.TO.UN
+"Population, age 18, female",SP.POP.AG18.FE.UN
+"Population, age 18, male",SP.POP.AG18.MA.UN
+"Population, age 18, total",SP.POP.AG18.TO.UN
+"Population, age 19, female",SP.POP.AG19.FE.UN
+"Population, age 19, male",SP.POP.AG19.MA.UN
+"Population, age 19, total",SP.POP.AG19.TO.UN
+"Population, age 2, female",SP.POP.AG02.FE.UN
+"Population, age 2, male",SP.POP.AG02.MA.UN
+"Population, age 2, total",SP.POP.AG02.TO.UN
+"Population, age 20, female",SP.POP.AG20.FE.UN
+"Population, age 20, male",SP.POP.AG20.MA.UN
+"Population, age 20, total",SP.POP.AG20.TO.UN
+"Population, age 21, female",SP.POP.AG21.FE.UN
+"Population, age 21, male",SP.POP.AG21.MA.UN
+"Population, age 21, total",SP.POP.AG21.TO.UN
+"Population, age 22, female",SP.POP.AG22.FE.UN
+"Population, age 22, male",SP.POP.AG22.MA.UN
+"Population, age 22, total",SP.POP.AG22.TO.UN
+"Population, age 23, female",SP.POP.AG23.FE.UN
+"Population, age 23, male",SP.POP.AG23.MA.UN
+"Population, age 23, total",SP.POP.AG23.TO.UN
+"Population, age 24, female",SP.POP.AG24.FE.UN
+"Population, age 24, male",SP.POP.AG24.MA.UN
+"Population, age 24, total",SP.POP.AG24.TO.UN
+"Population, age 25, female",SP.POP.AG25.FE.UN
+"Population, age 25, male",SP.POP.AG25.MA.UN
+"Population, age 25, total",SP.POP.AG25.TO.UN
+"Population, age 3, female",SP.POP.AG03.FE.UN
+"Population, age 3, male",SP.POP.AG03.MA.UN
+"Population, age 3, total",SP.POP.AG03.TO.UN
+"Population, age 4, female",SP.POP.AG04.FE.UN
+"Population, age 4, male",SP.POP.AG04.MA.UN
+"Population, age 4, total",SP.POP.AG04.TO.UN
+"Population, age 5, female",SP.POP.AG05.FE.UN
+"Population, age 5, male",SP.POP.AG05.MA.UN
+"Population, age 5, total",SP.POP.AG05.TO.UN
+"Population, age 6, female",SP.POP.AG06.FE.UN
+"Population, age 6, male",SP.POP.AG06.MA.UN
+"Population, age 6, total",SP.POP.AG06.TO.UN
+"Population, age 7, female",SP.POP.AG07.FE.UN
+"Population, age 7, male",SP.POP.AG07.MA.UN
+"Population, age 7, total",SP.POP.AG07.TO.UN
+"Population, age 8, female",SP.POP.AG08.FE.UN
+"Population, age 8, male",SP.POP.AG08.MA.UN
+"Population, age 8, total",SP.POP.AG08.TO.UN
+"Population, age 9, female",SP.POP.AG09.FE.UN
+"Population, age 9, male",SP.POP.AG09.MA.UN
+"Population, age 9, total",SP.POP.AG09.TO.UN
+"Population, ages 0-14 (% of total)",SP.POP.0014.TO.ZS
+"Population, ages 0-14, female",SP.POP.0014.FE.IN
+"Population, ages 0-14, male",SP.POP.0014.MA.IN
+"Population, ages 0-14, total",SP.POP.0014.TO
+"Population, ages 10-14, female",SP.POP.1014.FE.UN
+"Population, ages 10-14, male",SP.POP.1014.MA.UN
+"Population, ages 10-14, total",SP.POP.1014.TO.UN
+"Population, ages 10-15, female",SP.POP.1015.FE.UN
+"Population, ages 10-15, male",SP.POP.1015.MA.UN
+"Population, ages 10-15, total",SP.POP.1015.TO.UN
+"Population, ages 10-16, female",SP.POP.1016.FE.UN
+"Population, ages 10-16, male",SP.POP.1016.MA.UN
+"Population, ages 10-16, total",SP.POP.1016.TO.UN
+"Population, ages 10-17, female",SP.POP.1017.FE.UN
+"Population, ages 10-17, male",SP.POP.1017.MA.UN
+"Population, ages 10-17, total",SP.POP.1017.TO.UN
+"Population, ages 10-18, female",SP.POP.1018.FE.UN
+"Population, ages 10-18, male",SP.POP.1018.MA.UN
+"Population, ages 10-18, total",SP.POP.1018.TO.UN
+"Population, ages 11-15, female",SP.POP.1115.FE.UN
+"Population, ages 11-15, male",SP.POP.1115.MA.UN
+"Population, ages 11-15, total",SP.POP.1115.TO.UN
+"Population, ages 11-16, female",SP.POP.1116.FE.UN
+"Population, ages 11-16, male",SP.POP.1116.MA.UN
+"Population, ages 11-16, total",SP.POP.1116.TO.UN
+"Population, ages 11-17, female",SP.POP.1117.FE.UN
+"Population, ages 11-17, male",SP.POP.1117.MA.UN
+"Population, ages 11-17, total",SP.POP.1117.TO.UN
+"Population, ages 11-18, female",SP.POP.1118.FE.UN
+"Population, ages 11-18, male",SP.POP.1118.MA.UN
+"Population, ages 11-18, total",SP.POP.1118.TO.UN
+"Population, ages 12-15, female",SP.POP.1215.FE.UN
+"Population, ages 12-15, male",SP.POP.1215.MA.UN
+"Population, ages 12-15, total",SP.POP.1215.TO.UN
+"Population, ages 12-16, female",SP.POP.1216.FE.UN
+"Population, ages 12-16, male",SP.POP.1216.MA.UN
+"Population, ages 12-16, total",SP.POP.1216.TO.UN
+"Population, ages 12-17, female",SP.POP.1217.FE.UN
+"Population, ages 12-17, male",SP.POP.1217.MA.UN
+"Population, ages 12-17, total",SP.POP.1217.TO.UN
+"Population, ages 12-18, female",SP.POP.1218.FE.UN
+"Population, ages 12-18, male",SP.POP.1218.MA.UN
+"Population, ages 12-18, total",SP.POP.1218.TO.UN
+"Population, ages 13-16, female",SP.POP.1316.FE.UN
+"Population, ages 13-16, male",SP.POP.1316.MA.UN
+"Population, ages 13-16, total",SP.POP.1316.TO.UN
+"Population, ages 13-17, female",SP.POP.1317.FE.UN
+"Population, ages 13-17, male",SP.POP.1317.MA.UN
+"Population, ages 13-17, total",SP.POP.1317.TO.UN
+"Population, ages 13-18, female",SP.POP.1318.FE.UN
+"Population, ages 13-18, male",SP.POP.1318.MA.UN
+"Population, ages 13-18, total",SP.POP.1318.TO.UN
+"Population, ages 13-19, female",SP.POP.1319.FE.UN
+"Population, ages 13-19, male",SP.POP.1319.MA.UN
+"Population, ages 13-19, total",SP.POP.1319.TO.UN
+"Population, ages 14-18, female",SP.POP.1418.FE.UN
+"Population, ages 14-18, male",SP.POP.1418.MA.UN
+"Population, ages 14-18, total",SP.POP.1418.TO.UN
+"Population, ages 14-19, female",SP.POP.1419.FE.UN
+"Population, ages 14-19, male",SP.POP.1419.MA.UN
+"Population, ages 14-19, total",SP.POP.1419.TO.UN
+"Population, ages 15-24, female",SP.POP.1524.FE.UN
+"Population, ages 15-24, male",SP.POP.1524.MA.UN
+"Population, ages 15-24, total",SP.POP.1524.TO.UN
+"Population, ages 15-64 (% of total)",SP.POP.1564.TO.ZS
+"Population, ages 15-64, female",SP.POP.1564.FE.IN
+"Population, ages 15-64, male",SP.POP.1564.MA.IN
+"Population, ages 15-64, total",SP.POP.1564.TO
+"Population, ages 3-5, female",SP.POP.0305.FE.UN
+"Population, ages 3-5, male",SP.POP.0305.MA.UN
+"Population, ages 3-5, total",SP.POP.0305.TO.UN
+"Population, ages 4-6, female",SP.POP.0406.FE.UN
+"Population, ages 4-6, male",SP.POP.0406.MA.UN
+"Population, ages 4-6, total",SP.POP.0406.TO.UN
+"Population, ages 5-10, female",SP.POP.0510.FE.UN
+"Population, ages 5-10, male",SP.POP.0510.MA.UN
+"Population, ages 5-10, total",SP.POP.0510.TO.UN
+"Population, ages 5-11, female",SP.POP.0511.FE.UN
+"Population, ages 5-11, male",SP.POP.0511.MA.UN
+"Population, ages 5-11, total",SP.POP.0511.TO.UN
+"Population, ages 5-9, female",SP.POP.0509.FE.UN
+"Population, ages 5-9, male",SP.POP.0509.MA.UN
+"Population, ages 5-9, total",SP.POP.0509.TO.UN
+"Population, ages 6-10, female",SP.POP.0610.FE.UN
+"Population, ages 6-10, male",SP.POP.0610.MA.UN
+"Population, ages 6-10, total",SP.POP.0610.TO.UN
+"Population, ages 6-11, female",SP.POP.0611.FE.UN
+"Population, ages 6-11, male",SP.POP.0611.MA.UN
+"Population, ages 6-11, total",SP.POP.0611.TO.UN
+"Population, ages 6-12, female",SP.POP.0612.FE.UN
+"Population, ages 6-12, male",SP.POP.0612.MA.UN
+"Population, ages 6-12, total",SP.POP.0612.TO.UN
+"Population, ages 6-9, female",SP.POP.0609.FE.UN
+"Population, ages 6-9, male",SP.POP.0609.MA.UN
+"Population, ages 6-9, total",SP.POP.0609.TO.UN
+"Population, ages 7-10, female",SP.POP.0710.FE.UN
+"Population, ages 7-10, male",SP.POP.0710.MA.UN
+"Population, ages 7-10, total",SP.POP.0710.TO.UN
+"Population, ages 7-11, female",SP.POP.0711.FE.UN
+"Population, ages 7-11, male",SP.POP.0711.MA.UN
+"Population, ages 7-11, total",SP.POP.0711.TO.UN
+"Population, ages 7-12, female",SP.POP.0712.FE.UN
+"Population, ages 7-12, male",SP.POP.0712.MA.UN
+"Population, ages 7-12, total",SP.POP.0712.TO.UN
+"Population, ages 7-13, female",SP.POP.0713.FE.UN
+"Population, ages 7-13, male",SP.POP.0713.MA.UN
+"Population, ages 7-13, total",SP.POP.0713.TO.UN
+"Population, ages 7-9, female",SP.POP.0709.FE.UN
+"Population, ages 7-9, male",SP.POP.0709.MA.UN
+"Population, ages 7-9, total",SP.POP.0709.TO.UN
+"Population, female",SP.POP.TOTL.FE.IN
+"Population, female (% of total)",SP.POP.TOTL.FE.ZS
+"Population, male",SP.POP.TOTL.MA.IN
+"Population, male (% of total)",SP.POP.TOTL.MA.ZS
+"Population, total",SP.POP.TOTL
+Pupil-teacher ratio in primary education (headcount basis),SE.PRM.ENRL.TC.ZS
+Pupil-teacher ratio in tertiary education (headcount basis),UIS.PTRHC.56
+"School life expectancy, post-secondary non-tertiary, both sexes (years)",UIS.SLE.4
+"School life expectancy, post-secondary non-tertiary, female (years)",UIS.SLE.4.F
+"School life expectancy, post-secondary non-tertiary, gender parity index (GPI)",UIS.SLE.4.GPI
+"School life expectancy, post-secondary non-tertiary, male (years)",UIS.SLE.4.M
+"School life expectancy, pre-primary, both sexes (years)",UIS.SLE.0
+"School life expectancy, pre-primary, female (years)",UIS.SLE.0.F
+"School life expectancy, pre-primary, gender parity index (GPI)",UIS.SLE.0.GPI
+"School life expectancy, pre-primary, male (years)",UIS.SLE.0.M
+"School life expectancy, primary and lower secondary, both sexes (years)",UIS.SLE.12
+"School life expectancy, primary and lower secondary, female (years)",UIS.SLE.12.F
+"School life expectancy, primary and lower secondary, male (years)",UIS.SLE.12.M
+"School life expectancy, primary and secondary, both sexes (years)",UIS.SLE.123
+"School life expectancy, primary and secondary, female (years)",UIS.SLE.123.F
+"School life expectancy, primary and secondary, gender parity index (GPI)",UIS.SLE.123.GPI
+"School life expectancy, primary and secondary, male (years)",UIS.SLE.123.M
+"School life expectancy, primary to tertiary, both sexes (years)",SE.SCH.LIFE
+"School life expectancy, primary to tertiary, female (years)",SE.SCH.LIFE.FE
+"School life expectancy, primary to tertiary, gender parity index (GPI)",UIS.SLE.1T6.GPI
+"School life expectancy, primary to tertiary, male (years)",SE.SCH.LIFE.MA
+"School life expectancy, primary, both sexes (years)",UIS.SLE.1
+"School life expectancy, primary, female (years)",UIS.SLE.1.F
+"School life expectancy, primary, gender parity index (GPI)",UIS.SLE.1.GPI
+"School life expectancy, primary, male (years)",UIS.SLE.1.M
+"School life expectancy, secondary, both sexes (years)",UIS.SLE.23
+"School life expectancy, secondary, female (years)",UIS.SLE.23.F
+"School life expectancy, secondary, gender parity index (GPI)",UIS.SLE.23.GPI
+"School life expectancy, secondary, male (years)",UIS.SLE.23.M
+"School life expectancy, tertiary, both sexes (years)",UIS.SLE.56
+"School life expectancy, tertiary, female (years)",UIS.SLE.56.F
+"School life expectancy, tertiary, gender parity index (GPI)",UIS.SLE.56.GPI
+"School life expectancy, tertiary, male (years)",UIS.SLE.56.M
+"Share of youth not in education, employment, or training, female (% of female youth population)",SL.UEM.NEET.FE.ZS
+"Share of youth not in education, employment, or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS
+"Share of youth not in education, employment, or training, total (% of youth population)",SL.UEM.NEET.ZS
+"Teachers in primary education, both sexes (number)",SE.PRM.TCHR
+"Teachers in primary education, female (number)",SE.PRM.TCHR.FE
+"Teachers in tertiary education programmes, both sexes (number)",SE.TER.TCHR
+"Teachers in tertiary education programmes, female (number)",SE.TER.TCHR.FE
+Theoretical duration of lower secondary education (years),SE.SEC.DURS.LO
+Theoretical duration of post-secondary non-tertiary education (years),UIS.THDUR.4.A.GPV
+Theoretical duration of pre-primary education (years),UIS.THDUR.0
+Theoretical duration of primary education (years),SE.PRM.DURS
+Theoretical duration of secondary education (years),SE.SEC.DURS
+Theoretical duration of upper secondary education (years),SE.SEC.DURS.UP
+"Total inbound internationally mobile students, both sexes (number)",UIS.MS.56.T
+"Total inbound internationally mobile students, female (number)",UIS.MS.56.F
+"Total outbound internationally mobile tertiary students studying abroad, all countries, both sexes (number)",UIS.OE.56.40510
+UIS: Percentage of population age 25+ with at least a completed short-cycle tertiary degree (ISCED 5 or higher). Female,UIS.EA.5T8.AG25T99.F
+UIS: Percentage of population age 25+ with at least a completed short-cycle tertiary degree (ISCED 5 or higher). Gender Parity Index,UIS.EA.5T8.AG25T99.GPI
+UIS: Percentage of population age 25+ with at least a completed short-cycle tertiary degree (ISCED 5 or higher). Male,UIS.EA.5T8.AG25T99.M
+UIS: Percentage of population age 25+ with at least a completed short-cycle tertiary degree (ISCED 5 or higher). Total,UIS.EA.5T8.AG25T99
+UIS: Percentage of population age 25+ with at least completed upper secondary education (ISCED 3 or higher). Female,UIS.EA.3T6.AG25T99.F
+UIS: Percentage of population age 25+ with at least completed upper secondary education (ISCED 3 or higher). Gender Parity Index,UIS.EA.3T6.AG25T99.GPI
+UIS: Percentage of population age 25+ with at least completed upper secondary education (ISCED 3 or higher). Male,UIS.EA.3T6.AG25T99.M
+UIS: Percentage of population age 25+ with at least completed upper secondary education (ISCED 3 or higher). Total,UIS.EA.3T6.AG25T99
+UIS: Percentage of population age 25+ with completed lower secondary education. Female,UIS.EA.2.AG25T99.F
+UIS: Percentage of population age 25+ with completed lower secondary education. Male,UIS.EA.2.AG25T99.M
+UIS: Percentage of population age 25+ with completed lower secondary education. Total,UIS.EA.2.AG25T99
+UIS: Percentage of population age 25+ with completed upper secondary education. Female,UIS.EA.3.AG25T99.F
+UIS: Percentage of population age 25+ with completed upper secondary education. Male,UIS.EA.3.AG25T99.M
+UIS: Percentage of population age 25+ with completed upper secondary education. Total,UIS.EA.3.AG25T99
+"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS
+"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS
+"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS
+Wittgenstein Projection: Mean years of schooling. Age 0-19. Female,PRJ.MYS.0T19.FE
+Wittgenstein Projection: Mean years of schooling. Age 0-19. Male,PRJ.MYS.0T19.MA
+Wittgenstein Projection: Mean years of schooling. Age 0-19. Total,PRJ.MYS.0T19.MF
+Wittgenstein Projection: Mean years of schooling. Age 15+. Female,PRJ.MYS.15UP.FE
+Wittgenstein Projection: Mean Years of Schooling. Age 15+. Gender Gap,PRJ.MYS.15UP.GPI
+Wittgenstein Projection: Mean years of schooling. Age 15+. Male,PRJ.MYS.15UP.MA
+Wittgenstein Projection: Mean years of schooling. Age 15+. Total,PRJ.MYS.15UP.MF
+Wittgenstein Projection: Mean years of schooling. Age 15-19. Female,PRJ.MYS.1519.FE
+Wittgenstein Projection: Mean years of schooling. Age 15-19. Male,PRJ.MYS.1519.MA
+Wittgenstein Projection: Mean years of schooling. Age 15-19. Total,PRJ.MYS.1519.MF
+Wittgenstein Projection: Mean years of schooling. Age 20-24. Female,PRJ.MYS.2024.FE
+Wittgenstein Projection: Mean years of schooling. Age 20-24. Male,PRJ.MYS.2024.MA
+Wittgenstein Projection: Mean years of schooling. Age 20-24. Total,PRJ.MYS.2024.MF
+Wittgenstein Projection: Mean years of schooling. Age 20-39. Female,PRJ.MYS.2039.FE
+Wittgenstein Projection: Mean years of schooling. Age 20-39. Male,PRJ.MYS.2039.MA
+Wittgenstein Projection: Mean years of schooling. Age 20-39. Total,PRJ.MYS.2039.MF
+Wittgenstein Projection: Mean years of schooling. Age 20-64. Female,PRJ.MYS.2064.FE
+Wittgenstein Projection: Mean years of schooling. Age 20-64. Male,PRJ.MYS.2064.MA
+Wittgenstein Projection: Mean years of schooling. Age 20-64. Total,PRJ.MYS.2064.MF
+Wittgenstein Projection: Mean years of schooling. Age 25+. Female,PRJ.MYS.25UP.FE
+Wittgenstein Projection: Mean Years of Schooling. Age 25+. Gender Gap,PRJ.MYS.25UP.GPI
+Wittgenstein Projection: Mean years of schooling. Age 25+. Male,PRJ.MYS.25UP.MA
+Wittgenstein Projection: Mean years of schooling. Age 25+. Total,PRJ.MYS.25UP.MF
+Wittgenstein Projection: Mean years of schooling. Age 25-29. Female,PRJ.MYS.2529.FE
+Wittgenstein Projection: Mean years of schooling. Age 25-29. Male,PRJ.MYS.2529.MA
+Wittgenstein Projection: Mean years of schooling. Age 25-29. Total,PRJ.MYS.2529.MF
+Wittgenstein Projection: Mean years of schooling. Age 40-64. Female,PRJ.MYS.4064.FE
+Wittgenstein Projection: Mean years of schooling. Age 40-64. Male,PRJ.MYS.4064.MA
+Wittgenstein Projection: Mean years of schooling. Age 40-64. Total,PRJ.MYS.4064.MF
+Wittgenstein Projection: Mean years of schooling. Age 60+. Female,PRJ.MYS.60UP.FE
+Wittgenstein Projection: Mean years of schooling. Age 60+. Male,PRJ.MYS.60UP.MA
+Wittgenstein Projection: Mean years of schooling. Age 60+. Total,PRJ.MYS.60UP.MF
+Wittgenstein Projection: Mean years of schooling. Age 65+. Female,PRJ.MYS.65UP.FE
+Wittgenstein Projection: Mean years of schooling. Age 65+. Male,PRJ.MYS.65UP.MA
+Wittgenstein Projection: Mean years of schooling. Age 65+. Total,PRJ.MYS.65UP.MF
+Wittgenstein Projection: Mean years of schooling. Age 80+. Female,PRJ.MYS.80UP.FE
+Wittgenstein Projection: Mean years of schooling. Age 80+. Male,PRJ.MYS.80UP.MA
+Wittgenstein Projection: Mean years of schooling. Age 80+. Total,PRJ.MYS.80UP.MF
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Incomplete Primary. Female,PRJ.ATT.15UP.S1.FE
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Incomplete Primary. Male,PRJ.ATT.15UP.S1.MA
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Incomplete Primary. Total,PRJ.ATT.15UP.S1.MF
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Lower Secondary. Female,PRJ.ATT.15UP.2.FE
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Lower Secondary. Male,PRJ.ATT.15UP.2.MA
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Lower Secondary. Total,PRJ.ATT.15UP.2.MF
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. No Education. Female,PRJ.ATT.15UP.NED.FE
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. No Education. Male,PRJ.ATT.15UP.NED.MA
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. No Education. Total,PRJ.ATT.15UP.NED.MF
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Post Secondary. Female,PRJ.ATT.15UP.4.FE
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Post Secondary. Male,PRJ.ATT.15UP.4.MA
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Post Secondary. Total,PRJ.ATT.15UP.4.MF
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Primary. Female,PRJ.ATT.15UP.1.FE
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Primary. Male,PRJ.ATT.15UP.1.MA
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Primary. Total,PRJ.ATT.15UP.1.MF
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Upper Secondary. Female,PRJ.ATT.15UP.3.FE
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Upper Secondary. Male,PRJ.ATT.15UP.3.MA
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Upper Secondary. Total,PRJ.ATT.15UP.3.MF
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Incomplete Primary. Female,PRJ.ATT.1519.S1.FE
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Incomplete Primary. Male,PRJ.ATT.1519.S1.MA
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Incomplete Primary. Total,PRJ.ATT.1519.S1.MF
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Lower Secondary. Female,PRJ.ATT.1519.2.FE
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Lower Secondary. Male,PRJ.ATT.1519.2.MA
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Lower Secondary. Total,PRJ.ATT.1519.2.MF
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. No Education. Female,PRJ.ATT.1519.NED.FE
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. No Education. Male,PRJ.ATT.1519.NED.MA
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. No Education. Total,PRJ.ATT.1519.NED.MF
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Post Secondary. Female,PRJ.ATT.1519.4.FE
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Post Secondary. Male,PRJ.ATT.1519.4.MA
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Post Secondary. Total,PRJ.ATT.1519.4.MF
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Primary. Female,PRJ.ATT.1519.1.FE
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Primary. Male,PRJ.ATT.1519.1.MA
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Primary. Total,PRJ.ATT.1519.1.MF
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Upper Secondary. Female,PRJ.ATT.1519.3.FE
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Upper Secondary. Male,PRJ.ATT.1519.3.MA
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Upper Secondary. Total,PRJ.ATT.1519.3.MF
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Incomplete Primary. Female,PRJ.ATT.2024.S1.FE
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Incomplete Primary. Male,PRJ.ATT.2024.S1.MA
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Incomplete Primary. Total,PRJ.ATT.2024.S1.MF
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Lower Secondary. Female,PRJ.ATT.2024.2.FE
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Lower Secondary. Male,PRJ.ATT.2024.2.MA
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Lower Secondary. Total,PRJ.ATT.2024.2.MF
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. No Education. Female,PRJ.ATT.2024.NED.FE
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. No Education. Male,PRJ.ATT.2024.NED.MA
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. No Education. Total,PRJ.ATT.2024.NED.MF
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Post Secondary. Female,PRJ.ATT.2024.4.FE
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Post Secondary. Male,PRJ.ATT.2024.4.MA
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Post Secondary. Total,PRJ.ATT.2024.4.MF
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Primary. Female,PRJ.ATT.2024.1.FE
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Primary. Male,PRJ.ATT.2024.1.MA
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Primary. Total,PRJ.ATT.2024.1.MF
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Upper Secondary. Female,PRJ.ATT.2024.3.FE
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Upper Secondary. Male,PRJ.ATT.2024.3.MA
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Upper Secondary. Total,PRJ.ATT.2024.3.MF
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Incomplete Primary. Female,PRJ.ATT.2039.S1.FE
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Incomplete Primary. Male,PRJ.ATT.2039.S1.MA
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Incomplete Primary. Total,PRJ.ATT.2039.S1.MF
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Lower Secondary. Female,PRJ.ATT.2039.2.FE
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Lower Secondary. Male,PRJ.ATT.2039.2.MA
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Lower Secondary. Total,PRJ.ATT.2039.2.MF
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. No Education. Female,PRJ.ATT.2039.NED.FE
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. No Education. Male,PRJ.ATT.2039.NED.MA
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. No Education. Total,PRJ.ATT.2039.NED.MF
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Post Secondary. Female,PRJ.ATT.2039.4.FE
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Post Secondary. Male,PRJ.ATT.2039.4.MA
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Post Secondary. Total,PRJ.ATT.2039.4.MF
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Primary. Female,PRJ.ATT.2039.1.FE
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Primary. Male,PRJ.ATT.2039.1.MA
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Primary. Total,PRJ.ATT.2039.1.MF
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Upper Secondary. Female,PRJ.ATT.2039.3.FE
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Upper Secondary. Male,PRJ.ATT.2039.3.MA
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Upper Secondary. Total,PRJ.ATT.2039.3.MF
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Incomplete Primary. Female,PRJ.ATT.2064.S1.FE
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Incomplete Primary. Male,PRJ.ATT.2064.S1.MA
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Incomplete Primary. Total,PRJ.ATT.2064.S1.MF
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Lower Secondary. Female,PRJ.ATT.2064.2.FE
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Lower Secondary. Male,PRJ.ATT.2064.2.MA
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Lower Secondary. Total,PRJ.ATT.2064.2.MF
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. No Education. Female,PRJ.ATT.2064.NED.FE
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. No Education. Male,PRJ.ATT.2064.NED.MA
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. No Education. Total,PRJ.ATT.2064.NED.MF
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Post Secondary. Female,PRJ.ATT.2064.4.FE
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Post Secondary. Male,PRJ.ATT.2064.4.MA
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Post Secondary. Total,PRJ.ATT.2064.4.MF
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Primary. Female,PRJ.ATT.2064.1.FE
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Primary. Male,PRJ.ATT.2064.1.MA
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Primary. Total,PRJ.ATT.2064.1.MF
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Upper Secondary. Female,PRJ.ATT.2064.3.FE
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Upper Secondary. Male,PRJ.ATT.2064.3.MA
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Upper Secondary. Total,PRJ.ATT.2064.3.MF
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Incomplete Primary. Female,PRJ.ATT.25UP.S1.FE
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Incomplete Primary. Male,PRJ.ATT.25UP.S1.MA
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Incomplete Primary. Total,PRJ.ATT.25UP.S1.MF
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Lower Secondary. Female,PRJ.ATT.25UP.2.FE
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Lower Secondary. Male,PRJ.ATT.25UP.2.MA
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Lower Secondary. Total,PRJ.ATT.25UP.2.MF
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. No Education. Female,PRJ.ATT.25UP.NED.FE
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. No Education. Male,PRJ.ATT.25UP.NED.MA
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. No Education. Total,PRJ.ATT.25UP.NED.MF
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Post Secondary. Female,PRJ.ATT.25UP.4.FE
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Post Secondary. Male,PRJ.ATT.25UP.4.MA
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Post Secondary. Total,PRJ.ATT.25UP.4.MF
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Primary. Female,PRJ.ATT.25UP.1.FE
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Primary. Male,PRJ.ATT.25UP.1.MA
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Primary. Total,PRJ.ATT.25UP.1.MF
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Upper Secondary. Female,PRJ.ATT.25UP.3.FE
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Upper Secondary. Male,PRJ.ATT.25UP.3.MA
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Upper Secondary. Total,PRJ.ATT.25UP.3.MF
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Incomplete Primary. Female,PRJ.ATT.2529.S1.FE
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Incomplete Primary. Male,PRJ.ATT.2529.S1.MA
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Incomplete Primary. Total,PRJ.ATT.2529.S1.MF
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Lower Secondary. Female,PRJ.ATT.2529.2.FE
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Lower Secondary. Male,PRJ.ATT.2529.2.MA
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Lower Secondary. Total,PRJ.ATT.2529.2.MF
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. No Education. Female,PRJ.ATT.2529.NED.FE
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. No Education. Male,PRJ.ATT.2529.NED.MA
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. No Education. Total,PRJ.ATT.2529.NED.MF
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Post Secondary. Female,PRJ.ATT.2529.4.FE
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Post Secondary. Male,PRJ.ATT.2529.4.MA
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Post Secondary. Total,PRJ.ATT.2529.4.MF
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Primary. Female,PRJ.ATT.2529.1.FE
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Primary. Male,PRJ.ATT.2529.1.MA
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Primary. Total,PRJ.ATT.2529.1.MF
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Upper Secondary. Female,PRJ.ATT.2529.3.FE
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Upper Secondary. Male,PRJ.ATT.2529.3.MA
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Upper Secondary. Total,PRJ.ATT.2529.3.MF
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Incomplete Primary. Female,PRJ.ATT.4064.S1.FE
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Incomplete Primary. Male,PRJ.ATT.4064.S1.MA
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Incomplete Primary. Total,PRJ.ATT.4064.S1.MF
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Lower Secondary. Female,PRJ.ATT.4064.2.FE
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Lower Secondary. Male,PRJ.ATT.4064.2.MA
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Lower Secondary. Total,PRJ.ATT.4064.2.MF
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. No Education. Female,PRJ.ATT.4064.NED.FE
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. No Education. Male,PRJ.ATT.4064.NED.MA
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. No Education. Total,PRJ.ATT.4064.NED.MF
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Post Secondary. Female,PRJ.ATT.4064.4.FE
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Post Secondary. Male,PRJ.ATT.4064.4.MA
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Post Secondary. Total,PRJ.ATT.4064.4.MF
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Primary. Female,PRJ.ATT.4064.1.FE
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Primary. Male,PRJ.ATT.4064.1.MA
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Primary. Total,PRJ.ATT.4064.1.MF
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Upper Secondary. Female,PRJ.ATT.4064.3.FE
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Upper Secondary. Male,PRJ.ATT.4064.3.MA
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Upper Secondary. Total,PRJ.ATT.4064.3.MF
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Incomplete Primary. Female,PRJ.ATT.60UP.S1.FE
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Incomplete Primary. Male,PRJ.ATT.60UP.S1.MA
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Incomplete Primary. Total,PRJ.ATT.60UP.S1.MF
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Lower Secondary. Female,PRJ.ATT.60UP.2.FE
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Lower Secondary. Male,PRJ.ATT.60UP.2.MA
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Lower Secondary. Total,PRJ.ATT.60UP.2.MF
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. No Education. Female,PRJ.ATT.60UP.NED.FE
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. No Education. Male,PRJ.ATT.60UP.NED.MA
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. No Education. Total,PRJ.ATT.60UP.NED.MF
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Post Secondary. Female,PRJ.ATT.60UP.4.FE
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Post Secondary. Male,PRJ.ATT.60UP.4.MA
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Post Secondary. Total,PRJ.ATT.60UP.4.MF
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Primary. Female,PRJ.ATT.60UP.1.FE
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Primary. Male,PRJ.ATT.60UP.1.MA
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Primary. Total,PRJ.ATT.60UP.1.MF
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Upper Secondary. Female,PRJ.ATT.60UP.3.FE
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Upper Secondary. Male,PRJ.ATT.60UP.3.MA
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Upper Secondary. Total,PRJ.ATT.60UP.3.MF
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Incomplete Primary. Female,PRJ.ATT.80UP.S1.FE
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Incomplete Primary. Male,PRJ.ATT.80UP.S1.MA
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Incomplete Primary. Total,PRJ.ATT.80UP.S1.MF
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Lower Secondary. Female,PRJ.ATT.80UP.2.FE
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Lower Secondary. Male,PRJ.ATT.80UP.2.MA
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Lower Secondary. Total,PRJ.ATT.80UP.2.MF
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. No Education. Female,PRJ.ATT.80UP.NED.FE
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. No Education. Male,PRJ.ATT.80UP.NED.MA
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. No Education. Total,PRJ.ATT.80UP.NED.MF
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Post Secondary. Female,PRJ.ATT.80UP.4.FE
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Post Secondary. Male,PRJ.ATT.80UP.4.MA
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Post Secondary. Total,PRJ.ATT.80UP.4.MF
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Primary. Female,PRJ.ATT.80UP.1.FE
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Primary. Male,PRJ.ATT.80UP.1.MA
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Primary. Total,PRJ.ATT.80UP.1.MF
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Upper Secondary. Female,PRJ.ATT.80UP.3.FE
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Upper Secondary. Male,PRJ.ATT.80UP.3.MA
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Upper Secondary. Total,PRJ.ATT.80UP.3.MF
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Incomplete Primary. Female,PRJ.ATT.ALL.S1.FE
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Incomplete Primary. Male,PRJ.ATT.ALL.S1.MA
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Incomplete Primary. Total,PRJ.ATT.ALL.S1.MF
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Lower Secondary. Female,PRJ.ATT.ALL.2.FE
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Lower Secondary. Male,PRJ.ATT.ALL.2.MA
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Lower Secondary. Total,PRJ.ATT.ALL.2.MF
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. No Education. Female,PRJ.ATT.ALL.NED.FE
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. No Education. Male,PRJ.ATT.ALL.NED.MA
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. No Education. Total,PRJ.ATT.ALL.NED.MF
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Post Secondary. Female,PRJ.ATT.ALL.4.FE
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Post Secondary. Male,PRJ.ATT.ALL.4.MA
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Post Secondary. Total,PRJ.ATT.ALL.4.MF
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Primary. Female,PRJ.ATT.ALL.1.FE
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Primary. Male,PRJ.ATT.ALL.1.MA
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Primary. Total,PRJ.ATT.ALL.1.MF
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Upper Secondary. Female,PRJ.ATT.ALL.3.FE
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Upper Secondary. Male,PRJ.ATT.ALL.3.MA
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Upper Secondary. Total,PRJ.ATT.ALL.3.MF
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Incomplete Primary. Female,PRJ.POP.1519.S1.FE
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Incomplete Primary. Male,PRJ.POP.1519.S1.MA
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Incomplete Primary. Total,PRJ.POP.1519.S1.MF
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Lower Secondary. Female,PRJ.POP.1519.2.FE
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Lower Secondary. Male,PRJ.POP.1519.2.MA
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Lower Secondary. Total,PRJ.POP.1519.2.MF
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. No Education. Female,PRJ.POP.1519.NED.FE
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. No Education. Male,PRJ.POP.1519.NED.MA
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. No Education. Total,PRJ.POP.1519.NED.MF
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Post Secondary. Female,PRJ.POP.1519.4.FE
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Post Secondary. Male,PRJ.POP.1519.4.MA
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Post Secondary. Total,PRJ.POP.1519.4.MF
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Primary. Female,PRJ.POP.1519.1.FE
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Primary. Male,PRJ.POP.1519.1.MA
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Primary. Total,PRJ.POP.1519.1.MF
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Upper Secondary. Female,PRJ.POP.1519.3.FE
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Upper Secondary. Male,PRJ.POP.1519.3.MA
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Upper Secondary. Total,PRJ.POP.1519.3.MF
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Incomplete Primary. Female,PRJ.POP.2024.S1.FE
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Incomplete Primary. Male,PRJ.POP.2024.S1.MA
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Incomplete Primary. Total,PRJ.POP.2024.S1.MF
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Lower Secondary. Female,PRJ.POP.2024.2.FE
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Lower Secondary. Male,PRJ.POP.2024.2.MA
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Lower Secondary. Total,PRJ.POP.2024.2.MF
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. No Education. Female,PRJ.POP.2024.NED.FE
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. No Education. Male,PRJ.POP.2024.NED.MA
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. No Education. Total,PRJ.POP.2024.NED.MF
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Post Secondary. Female,PRJ.POP.2024.4.FE
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Post Secondary. Male,PRJ.POP.2024.4.MA
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Post Secondary. Total,PRJ.POP.2024.4.MF
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Primary. Female,PRJ.POP.2024.1.FE
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Primary. Male,PRJ.POP.2024.1.MA
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Primary. Total,PRJ.POP.2024.1.MF
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Upper Secondary. Female,PRJ.POP.2024.3.FE
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Upper Secondary. Male,PRJ.POP.2024.3.MA
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Upper Secondary. Total,PRJ.POP.2024.3.MF
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Incomplete Primary. Female,PRJ.POP.2529.S1.FE
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Incomplete Primary. Male,PRJ.POP.2529.S1.MA
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Incomplete Primary. Total,PRJ.POP.2529.S1.MF
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Lower Secondary. Female,PRJ.POP.2529.2.FE
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Lower Secondary. Male,PRJ.POP.2529.2.MA
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Lower Secondary. Total,PRJ.POP.2529.2.MF
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. No Education. Female,PRJ.POP.2529.NED.FE
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. No Education. Male,PRJ.POP.2529.NED.MA
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. No Education. Total,PRJ.POP.2529.NED.MF
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Post Secondary. Female,PRJ.POP.2529.4.FE
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Post Secondary. Male,PRJ.POP.2529.4.MA
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Post Secondary. Total,PRJ.POP.2529.4.MF
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Primary. Female,PRJ.POP.2529.1.FE
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Primary. Male,PRJ.POP.2529.1.MA
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Primary. Total,PRJ.POP.2529.1.MF
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Upper Secondary. Female,PRJ.POP.2529.3.FE
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Upper Secondary. Male,PRJ.POP.2529.3.MA
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Upper Secondary. Total,PRJ.POP.2529.3.MF
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Incomplete Primary. Female,PRJ.POP.ALL.S1.FE
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Incomplete Primary. Male,PRJ.POP.ALL.S1.MA
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Incomplete Primary. Total,PRJ.POP.ALL.S1.MF
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Lower Secondary. Female,PRJ.POP.ALL.2.FE
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Lower Secondary. Male,PRJ.POP.ALL.2.MA
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Lower Secondary. Total,PRJ.POP.ALL.2.MF
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. No Education. Female,PRJ.POP.ALL.NED.FE
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. No Education. Male,PRJ.POP.ALL.NED.MA
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. No Education. Total,PRJ.POP.ALL.NED.MF
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Post Secondary. Female,PRJ.POP.ALL.4.FE
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Post Secondary. Male,PRJ.POP.ALL.4.MA
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Post Secondary. Total,PRJ.POP.ALL.4.MF
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Primary. Female,PRJ.POP.ALL.1.FE
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Primary. Male,PRJ.POP.ALL.1.MA
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Primary. Total,PRJ.POP.ALL.1.MF
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Upper Secondary. Female,PRJ.POP.ALL.3.FE
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Upper Secondary. Male,PRJ.POP.ALL.3.MA
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Upper Secondary. Total,PRJ.POP.ALL.3.MF

@@ -1,0 +1,5 @@
+category,indicator_name,indicator_code
+Government Expenditure,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS
+Government Expenditure,Government expenditure on secondary education as % of GDP (%),UIS.XGDP.23.FSGOV
+Government Expenditure,Government expenditure on tertiary education as % of GDP (%),UIS.XGDP.56.FSGOV
+Gender Equality,"Gross graduation ratio from first degree programmes (ISCED 6 and 7) in tertiary education, both sexes (%)",SE.TER.CMPL.ZS
