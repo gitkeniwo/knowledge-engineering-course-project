@@ -2,4 +2,15 @@ category,indicator_name,indicator_code
 Government Expenditure,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS
 Government Expenditure,Government expenditure on secondary education as % of GDP (%),UIS.XGDP.23.FSGOV
 Government Expenditure,Government expenditure on tertiary education as % of GDP (%),UIS.XGDP.56.FSGOV
+Government Expenditure,Government expenditure per secondary student as % of GDP per capita (%),SE.XPD.SECO.PC.ZS
+Government Expenditure,Government expenditure per tertiary student as % of GDP per capita (%),SE.XPD.TERT.PC.ZS
 Gender Equality,"Gross graduation ratio from first degree programmes (ISCED 6 and 7) in tertiary education, both sexes (%)",SE.TER.CMPL.ZS
+Gender Equality,"Graduates from tertiary education, female (number)",SE.TER.GRAD.FE
+Gender Equality,"Gross enrolment ratio, tertiary, female (%)",SE.TER.ENRR.FE
+Gender Equality,UIS: Percentage of population age 25+ with at least a completed short-cycle tertiary degree (ISCED 5 or higher). Female,UIS.EA.5T8.AG25T99.F
+Labor Force Education,Labor force with basic education (% of total),SL.TLF.BASC.ZS
+Labor Force Education,Labor force with intermediate education (% of total),SL.TLF.INTM.ZS
+Labor Force Education,Labor force with advanced education (% of total),SL.TLF.ADVN.ZS
+PISA Score,PISA: Mean performance on the reading scale,LO.PISA.REA
+PISA Score,PISA: Mean performance on the mathematics scale,LO.PISA.MAT
+PISA Score,PISA: Mean performance on the science scale,LO.PISA.SCI

@@ -1,0 +1,16 @@
+indicator_code,correlation_coef,category,indicator_name
+SE.XPD.TOTL.GD.ZS,-0.24014024245747506,Government Expenditure,Government expenditure on education as % of GDP (%)
+UIS.XGDP.23.FSGOV,-0.39597366013939794,Government Expenditure,Government expenditure on secondary education as % of GDP (%)
+UIS.XGDP.56.FSGOV,-0.11646270970434074,Government Expenditure,Government expenditure on tertiary education as % of GDP (%)
+SE.XPD.SECO.PC.ZS,-0.1363134675923671,Government Expenditure,Government expenditure per secondary student as % of GDP per capita (%)
+SE.XPD.TERT.PC.ZS,-0.3483151973544172,Government Expenditure,Government expenditure per tertiary student as % of GDP per capita (%)
+SE.TER.CMPL.ZS,-0.15985612927942547,Gender Equality,"Gross graduation ratio from first degree programmes (ISCED 6 and 7) in tertiary education, both sexes (%)"
+SE.TER.GRAD.FE,0.1971042463501293,Gender Equality,"Graduates from tertiary education, female (number)"
+SE.TER.ENRR.FE,0.487939277859217,Gender Equality,"Gross enrolment ratio, tertiary, female (%)"
+UIS.EA.5T8.AG25T99.F,-0.15931782560849125,Gender Equality,UIS: Percentage of population age 25+ with at least a completed short-cycle tertiary degree (ISCED 5 or higher). Female
+SL.TLF.BASC.ZS,0.023363633632654104,Labor Force Education,Labor force with basic education (% of total)
+SL.TLF.INTM.ZS,-0.02722500975289503,Labor Force Education,Labor force with intermediate education (% of total)
+SL.TLF.ADVN.ZS,0.02222727768154037,Labor Force Education,Labor force with advanced education (% of total)
+LO.PISA.REA,-0.09380075959693125,PISA Score,PISA: Mean performance on the reading scale
+LO.PISA.MAT,-0.3554841394622663,PISA Score,PISA: Mean performance on the mathematics scale
+LO.PISA.SCI,-0.2644420550401694,PISA Score,PISA: Mean performance on the science scale

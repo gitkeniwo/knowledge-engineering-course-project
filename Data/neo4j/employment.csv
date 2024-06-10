@@ -1,19 +1,19 @@
 country_name,country_code,indicator_name,Indicator Code,unemployment_rate,employment_id
-Austria,AUT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.268,2ac4ae56-33b4-4bba-8dfe-e622e7744cbd
-Belgium,BEL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.541,21895466-2068-4d24-98f3-ba785ba95144
-Bulgaria,BGR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.185,3a331d5c-9859-4fa2-8fe6-1a2078fd29cf
-Switzerland,CHE,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.838,c91bae40-d491-4afc-b4b2-54ed7644eae8
-Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.006,7d919876-f20a-47d3-837e-30e8d74c7fc4
-Denmark,DNK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.832,e12d6394-9861-4b59-aaf9-c30e8b2d1756
-Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,12.137,50e45bf0-1619-4e26-a727-a76a5e3af79c
-Finland,FIN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.971,20898678-2fc0-407c-87ad-54882a83afdb
-France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.081,a82bac6c-839e-4529-b977-b6689eb9d2de
-United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.355,e903cbde-94a2-480c-833a-d4ce1a1940af
-Greece,GRC,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.808,5e73320b-11fd-458d-b71d-0c2176c9fc93
-Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.091,f4f846a0-8739-4901-b53f-7416ac026912
-Ireland,IRL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.454,957e6e00-3a2a-48a5-95a7-149a02cde9e4
-Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.657,3d0af5bf-6007-4d12-b425-7d7d58233605
-Netherlands,NLD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.515,020d503d-1c5f-43cc-a3c0-0f767f5aa1d7
-Norway,NOR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.501,66308d47-af27-4bbe-94b4-e39d3d1bca8b
-Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.47,2852920c-ef8f-42f2-aaf8-7fa83b204fae
-Sweden,SWE,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.735,582b4dbc-6535-408a-93df-98ecced6a108
+Austria,AUT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.268,e573ba07-59f6-427d-877e-e311f8fb5083
+Belgium,BEL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.541,d53dbb5a-e48d-4eca-8838-6695f3eb3160
+Bulgaria,BGR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.185,32a04bf5-02e7-4333-a7a1-1bd849ffb3c0
+Switzerland,CHE,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.838,b60830ca-f272-4835-951f-4af2ebf13d12
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.006,d968c677-c784-4e22-8696-6aa073ab2449
+Denmark,DNK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.832,eb9d68ae-ec01-4ace-8061-7efec4072649
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,12.137,8ddbd13a-bf42-4e90-850b-03deeddcf0af
+Finland,FIN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.971,d3b0a567-68a3-4cc2-86cf-76ff813dc57c
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.081,3ca137aa-bfe1-4a60-b07e-5a74ebd151a3
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.355,28b82f5f-7c68-4090-8d99-a83e4fb04364
+Greece,GRC,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.808,9abd487e-67ee-4b78-924c-fc1b0efe3b23
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.091,4ac229ed-3951-426c-b228-2a6da5a87683
+Ireland,IRL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.454,a859df41-abd0-47a1-a47f-f1ab994835d4
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.657,1ffc85d8-2cbe-4fea-9416-546d20230379
+Netherlands,NLD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.515,0fbd7851-1f2b-4e40-aeeb-59c8a9c82d99
+Norway,NOR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.501,3e03fcb9-ff59-4232-9569-9d8880436341
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.47,23ea4ba4-0220-42da-bffc-7281c4b16c4d
+Sweden,SWE,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.735,ec7c1392-0c00-4bbc-95e4-2ee0c91db14b
