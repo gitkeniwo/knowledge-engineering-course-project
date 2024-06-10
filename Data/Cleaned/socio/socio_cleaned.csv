@@ -1,0 +1,19 @@
+unid,wbid,country,year,ses,class,gdppc,yrseduc,region5,regionUN
+100,BGR,Bulgaria,2010,63.85135269,Middle(semi-per),15283.17969,9.850999832,SE Europe,East Europe
+208,DNK,Denmark,2010,82.43243408,High(core),43998.4375,10.05659962,NW Europe,North Europe
+246,FIN,Finland,2010,79.39189148,High(core),39848.13281,9.974200249,NW Europe,North Europe
+250,FRA,France,2010,83.10810852,High(core),36872.22656,10.53289986,NW Europe,West Europe
+276,DEU,Germany,2010,90.5405426,High(core),40428.72266,11.82310009,NW Europe,West Europe
+300,GRC,Greece,2010,80.74324036,High(core),28726.08008,10.67669964,SE Europe,South Europe
+348,HUN,Hungary,2010,82.09459686,High(core),22277.37305,11.65079975,SE Europe,East Europe
+372,IRL,Ireland,2010,92.56756592,High(core),45661.46875,11.64000034,NW Europe,North Europe
+380,ITA,Italy,2010,73.3108139,High(core),36201.16016,9.509599686,SE Europe,South Europe
+40,AUT,Austria,2010,77.36486816,High(core),43174.97656,9.535300255,NW Europe,West Europe
+528,NLD,Netherlands,2010,89.52702332,High(core),45524.66406,11.02260017,NW Europe,West Europe
+56,BEL,Belgium,2010,85.47297668,High(core),41086.5625,10.54529953,NW Europe,West Europe
+578,NOR,Norway,2010,97.29729462,High(core),62268.01172,12.29650021,NW Europe,North Europe
+620,PRT,Portugal,2010,59.12162018,Middle(semi-per),27238.46094,7.992899895,SE Europe,South Europe
+724,ESP,Spain,2010,80.40540314,High(core),32506.43359,10.38210011,SE Europe,South Europe
+752,SWE,Sweden,2010,90.20270538,High(core),42942.5625,11.56719971,NW Europe,North Europe
+756,CHE,Switzerland,2010,83.10810852,High(core),55541.67188,9.876299858,NW Europe,West Europe
+826,GBR,United Kingdom,2010,75.67567444,High(core),36195.86719,9.754400253,NW Europe,North Europe
