@@ -1,19 +1,19 @@
 Country Name,Country Code,Indicator Name,Value
-Austria,AUT,Barro-Lee: Percentage of population age 25+ with no education,1.48
-Belgium,BEL,Barro-Lee: Percentage of population age 25+ with no education,5.0
-Bulgaria,BGR,Barro-Lee: Percentage of population age 25+ with no education,2.26
-Denmark,DNK,Barro-Lee: Percentage of population age 25+ with no education,2.89
-Finland,FIN,Barro-Lee: Percentage of population age 25+ with no education,0.0
-France,FRA,Barro-Lee: Percentage of population age 25+ with no education,1.55
-Germany,DEU,Barro-Lee: Percentage of population age 25+ with no education,1.84
-Greece,GRC,Barro-Lee: Percentage of population age 25+ with no education,2.79
-Hungary,HUN,Barro-Lee: Percentage of population age 25+ with no education,0.28
-Ireland,IRL,Barro-Lee: Percentage of population age 25+ with no education,0.84
-Italy,ITA,Barro-Lee: Percentage of population age 25+ with no education,6.3
-Netherlands,NLD,Barro-Lee: Percentage of population age 25+ with no education,0.0
-Norway,NOR,Barro-Lee: Percentage of population age 25+ with no education,5.85
-Portugal,PRT,Barro-Lee: Percentage of population age 25+ with no education,11.76
-Spain,ESP,Barro-Lee: Percentage of population age 25+ with no education,2.49
-Sweden,SWE,Barro-Lee: Percentage of population age 25+ with no education,1.73
-Switzerland,CHE,Barro-Lee: Percentage of population age 25+ with no education,1.44
-United Kingdom,GBR,Barro-Lee: Percentage of population age 25+ with no education,0.16
+Austria,AUT,Expenditure on education as % of total government expenditure (%),10.48320961
+Belgium,BEL,Expenditure on education as % of total government expenditure (%),11.97239017
+Bulgaria,BGR,Expenditure on education as % of total government expenditure (%),11.43980026
+Denmark,DNK,Expenditure on education as % of total government expenditure (%),15.22986984
+Finland,FIN,Expenditure on education as % of total government expenditure (%),12.32345009
+France,FRA,Expenditure on education as % of total government expenditure (%),9.661879539
+Germany,DEU,Expenditure on education as % of total government expenditure (%),11.13873959
+Greece,GRC,Expenditure on education as % of total government expenditure (%),8.700209618
+Hungary,HUN,Expenditure on education as % of total government expenditure (%),9.413049698
+Ireland,IRL,Expenditure on education as % of total government expenditure (%),13.45306015
+Italy,ITA,Expenditure on education as % of total government expenditure (%),8.006159782
+Netherlands,NLD,Expenditure on education as % of total government expenditure (%),11.97317028
+Norway,NOR,Expenditure on education as % of total government expenditure (%),17.02611923
+Portugal,PRT,Expenditure on education as % of total government expenditure (%),9.888010025
+Spain,ESP,Expenditure on education as % of total government expenditure (%),9.592610359
+Sweden,SWE,Expenditure on education as % of total government expenditure (%),14.93908978
+Switzerland,CHE,Expenditure on education as % of total government expenditure (%),15.52632046
+United Kingdom,GBR,Expenditure on education as % of total government expenditure (%),13.88024044
