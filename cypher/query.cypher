@@ -49,5 +49,3 @@ MERGE (n)-[r3:correlates_with {}]-(n2)
 // Delete all relations beween countries
 MATCH (n:Country) -[r]-> (m:Country)
 DELETE r
-
-// Match all countries that h
