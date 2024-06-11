@@ -18,7 +18,7 @@ After you register your instance, you may either work with it using neo4j web wo
 ### Set up a local neo4j server
 
 For mac users, install neo4j with homebrew
-```bash
+```ps
 $brew install neo4j
 ```
 
@@ -55,7 +55,7 @@ Starting Neo4j.
 2024-06-11 10:51:00.951+0000 INFO  creationDate: 2024-06-10T23:52:45.176Z
 2024-06-11 10:51:00.951+0000 INFO  Started.
 ```
-The server will listen on `localhost:7687` for neo4j [bolt](https://neo4j.com/docs/bolt/current/bolt/) request, which is also the port you should fill in when using neo4j python driver. Web console is enable on `localhost:7474` through HTTP.
+The server will listen on `localhost:7687` for neo4j [bolt](https://neo4j.com/docs/bolt/current/bolt/) request, which is also the port you should fill in when using neo4j python driver. Web console is enabled on `localhost:7474` through HTTP.
 
 Take note of where the `import` directory is located. This is the place to drop your CSV if you need to import CSV by cypher queries. See https://neo4j.com/docs/getting-started/data-import/csv-import/#import-load-csv 
 
