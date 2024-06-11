@@ -2,7 +2,7 @@
 
 ## Create a knowledge graph from relational dataset
 
-Ti initiate your own [neo4j](https://neo4j.com/) server, you can either choose to create a free aura instance, or set up a neo4j server locally.
+To initiate your own [neo4j](https://neo4j.com/) server, you can either choose to create a free aura instance, or set up a neo4j server locally.
 
 ### Create a free-tier aura instance
 
