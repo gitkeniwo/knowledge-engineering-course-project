@@ -10,10 +10,11 @@ To initiate your own [neo4j](https://neo4j.com/) server, you can either choose t
 
 ### Create a free-tier aura instance
 
+As of June 2024, neo4j aura offers one free-tier instance with 200,000 nodes and 400,000 relations.
 Visit https://neo4j.com/cloud/platform/aura-graph-database/ and start a free instance.
 After you register your instance, you may either work with it using neo4j web workspace or use the credentials to work with local clients and python drivers.
 
-*Attention* Aura does not support CSV import by cypher scripts. However, it does offers a GUI import interface `https://workspace-preview.neo4j.io/workspace/import`, but you need to configure every field of the mapping each time when you import, so it could be unhandy at times.
+*Attention* Aura does not support CSV import by cypher scripts. However, it does offer a GUI import interface `https://workspace-preview.neo4j.io/workspace/import`, but you need to configure every field of the mapping each time you import, so it could be unhandy at times.
 
 ### Set up a local neo4j server
 
@@ -70,9 +71,9 @@ Note that Cypher queries must end with a semicolon.
 neo4j@neo4j>
 ```
 
-### Start neo4j docker container
+### Start a neo4j docker container
 
-Use official docker image https://hub.docker.com/_/neo4j 
+Use official docker image at https://hub.docker.com/_/neo4j 
 Use together with dockerfile to create more advanced images, and docker-compose more complicated data pipelines with python.
 
 ### Use neo4j Desktop
