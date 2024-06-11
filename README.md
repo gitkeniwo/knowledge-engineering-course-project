@@ -1,5 +1,9 @@
 # Knowledge Engineering
 
+## Todos
+- [ ] Create a docker pipeline to import data and derive implicit relations.
+- [ ] Release the image by Github Action.
+
 ## Create a knowledge graph from relational dataset
 
 To initiate your own [neo4j](https://neo4j.com/) server, you can either choose to create a free aura instance, or set up a neo4j server locally.
