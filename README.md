@@ -75,3 +75,41 @@ Use together with dockerfile to create more advanced images, and docker-compose 
 
 Of course, you can directly download neo4j desktop to quickly start a graph DB service.
 See https://neo4j.com/download/
+
+## Research Question
+
+Explore the influence of educational resources on employment outcomes across different socioeconomic backgrounds.
+
+**Client context**: The client is the government that wants to research whether investing in educational resources will improve economic mobility in the country, by comparing progress in other countries
+
+
+## Data Sources
+
+- Country Socioeconomic Status Scores 
+  - The Kaggle dataset on Country Socioeconomic Status Scores, Part II – the dataset contains estimates of the socioeconomic status (SES) position of each of 149 countries covering the period 1880-2010.
+- The World Bank Dataset on Unemployment
+  - Total (% of total labor force) (modeled ILO estimate) - it holds the unemployment % of total labor force of every country for 2023.
+- The World Bank Dataset on Education Statistics
+  - Describes itself as holding over 4,000 internationally comparable indicators that cover education access, progression, completion, literacy, teachers, population, and expenditures. However, this dataset is very scarce and contains thousands of empty values.
+
+## Project Structure
+
+- Data Exchange
+  - Data cleaning, feature selection, etc.
+- Knowledge Graph Design
+  - Entity Identification:
+    - Countries, Indicators, Categories of Indicator, Employment Outcome, Socioeconomic Status
+  - Property Extraction
+    - Add values of indicators as the properties of the nodes
+- Knowledge Graph Construction
+  - Build a relational DB to neo4j data pipeline
+- Graph Queries
+  - Explanatory Graph Query
+  - Derive New Relations: Implicit knowledge mining
+    - Besides what is presented in the data source, it is possible to form cliques of countries that have similar socioeconomic status in the KG
+  - Data Analysis 
+    - What kinds of educational indicators accounts most for the employment outcome?
+- Round off the KG 
+  - Populate the relations between Employment rate and Indicator with corresponding Correlation Coef. 
+
+  
