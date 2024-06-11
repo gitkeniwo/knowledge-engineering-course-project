@@ -39,7 +39,7 @@ MATCH (n2:Country) -[r2]-> (s2:`Socioeconomic Status`)
 WHERE s2.socioeconomic_class = 'High(core)' AND n <> n2
 MERGE (n)-[r3:Similar_Socioeconomic {socioeconomic_class: 'high(core)'}]-(n2)
 
-{country_code}
+// import correlations between educational indicators and employment outcomes
 MATCH (n:`Educational Indicator` {indicator_code:"{indicator_code}"}) 
 WITH n
 MATCH (n2:`Employment Outcome`) 
