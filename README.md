@@ -117,4 +117,33 @@ Explore the influence of educational resources on employment outcomes across dif
 - Round off the KG 
   - Populate the relations between Employment rate and Indicator with corresponding Correlation Coef. 
 
-  
+## Detailed Steps to Reproduce Our Construction Procedures
+
+### Step 1: Initiate your neo4j server
+
+We suggest you start with a neo4j docker container or a local command line server.
+
+### Step 2: Run the notebooks
+
+- `notebooks/process-raw-data.ipynb` generates our needed data tables from raw data to `data/Cleaned/`. 
+- `notebooks/data-preprocessing.ipynb` preprocesses the cleaned data.
+- `notebooks/knowledge-graph-prepation.ipynb` generates necessary CSVs at `data/neo4j/` for importing to the neo4j database.
+
+Once desired CSVs are generated, copy them to your import directory, such as `import:       /opt/homebrew/Cellar/neo4j/5.20.0/libexec/import`.  See https://neo4j.com/docs/getting-started/data-import/csv-import/#import-load-csv
+
+### Step 3: Run the import script
+
+Open your command line and execute
+
+```ps
+$cypher-shell
+```
+
+to enter the cypher query interface. Copypaste the cypher scripts at `cypher/import.cypher`  to your prompt and hit enter to import the CSVs with preset shcema.
+
+Now that your records are imported, you can toy with the KG by executing some queries in `cypher/query.cypher` and see what it produces.
+
+### Step 4 Build Correlational Relationships
+
+It requires some python code to build additional implicit Correlational Relationships in the KG.
+It can be found at `notebooks/knowledge-graph-prepation.ipynb # Import Correlation relations to Local neo4j` in the notebook. After you successfully imported the KG, hit "run all" in the notebook and correlational relationships will be constructed by python code.

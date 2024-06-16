@@ -15,7 +15,6 @@ MATCH (n:Country {country_name: 'Austria'}) -[r]-> (i:`Educational Indicator`) -
 return *
 
 // Query Countries that connect to a Socioeconomic Status which has property "socioeconomic_class="High(core)"
-// And add a 
 MATCH (n:Country) -[r]-> (s:`Socioeconomic Status`),
 WHERE s.socioeconomic_class = 'High(core)'
 RETURN n
@@ -31,6 +30,7 @@ WHERE s.socioeconomic_class = 'High(core)' RETURN n, e, i, ic
 // and add new relation "Similar Socioeconomic" between these countries 
 // relation has property "socioeconomic_class" with value: "high(core)"
 // without creating duplicate relations and bidirectional relations
+
 
 // Creates a new relation between countries that have the same socioeconomic status: High(core)
 MATCH (n:Country) -[r]-> (s:`Socioeconomic Status`)
