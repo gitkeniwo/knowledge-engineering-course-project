@@ -1,6 +1,6 @@
 # Knowledge Engineering
 
-[![GLWTPL](https://img.shields.io/badge/GLWT-Public_License-red.svg)](https://github.com/me-shaon/GLWTPL)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Todos
 - [ ] Create a docker pipeline to import data and derive implicit relations.
