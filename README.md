@@ -1,6 +1,6 @@
 # Knowledge Engineering
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/{813576612}.svg)](https://zenodo.org/badge/latestdoi/{813576612})
 
 ## Todos
 - [ ] Create a docker pipeline to import data and derive implicit relations.
